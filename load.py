@@ -1,3 +1,5 @@
+DAY_NUM = 30
+
 def vocaLoad():
     f = open("vocabulary.txt", 'r', encoding='UTF8')
     lines = f.readlines()
@@ -7,24 +9,16 @@ def vocaLoad():
     basic_flag = False
     grade800_flag = False
 
-    all_day_word = {}
-    all_day_mean = {}
+    all_day = {}
+    basic = {}
+    grade800 = {}
     day_count = 0
 
-    basic_day_word = {}
-    basic_day_mean = {}
 
-    grade800_day_word = {}
-    grade800_day_mean = {}
-
-
-    for i in range(30):
-        all_day_word[f"day{i+1}"] = []
-        all_day_mean[f"day{i+1}"] = []
-        basic_day_word[f"day{i+1}"] = []
-        basic_day_mean[f"day{i+1}"] = []
-        grade800_day_word[f"day{i+1}"] = []
-        grade800_day_mean[f"day{i+1}"] = []
+    for i in range(DAY_NUM):
+        all_day[f"day{i+1}"] = []
+        basic[f"day{i+1}"] = []
+        grade800[f"day{i+1}"] = []
 
     # print(all_day_word)
     # print(all_day_mean)
@@ -52,27 +46,22 @@ def vocaLoad():
         if day_flag:
             word_mean = lines[i].split("/")
             if len(word_mean) == 2:
-                all_day_word[f"day{day_count}"].append((word_mean[0], ""))
-                all_day_mean[f"day{day_count}"].append(word_mean[1].replace("\n", ""))
+                all_day[f"day{day_count}"].append([(word_mean[0], ""), word_mean[1].replace("\n", "")])
+                # all_day_mean[f"day{day_count}"].append(word_mean[1].replace("\n", ""))
         elif basic_flag:
             word_mean = lines[i].split("/")
             if len(word_mean) == 2:
-                basic_day_word[f"day{day_count}"].append((word_mean[0], ""))
-                basic_day_mean[f"day{day_count}"].append(word_mean[1].replace("\n", ""))
+                basic[f"day{day_count}"].append([(word_mean[0], ""), word_mean[1].replace("\n", "")])
         elif grade800_flag:
             word_mean = lines[i].split("/")
             if len(word_mean) == 2:
-                grade800_day_word[f"day{day_count}"].append((word_mean[0], ""))
-                grade800_day_mean[f"day{day_count}"].append(word_mean[1].replace("\n", ""))
+                grade800[f"day{day_count}"].append([(word_mean[0], ""), word_mean[1].replace("\n", "")])
 
-    print(all_day_word)
-    print(all_day_mean)
-    print(basic_day_word)
-    print(basic_day_mean)
-    print(grade800_day_word)
-    print(grade800_day_mean)
+    print("DAY: ", all_day)
+    print("토익 기초: ", basic)
+    print("800점 단어: ", grade800)
 
-    return all_day_word, all_day_mean, basic_day_word, basic_day_mean, grade800_day_word, grade800_day_mean
+    return all_day, basic, grade800
 
 
 if __name__ == '__main__':
