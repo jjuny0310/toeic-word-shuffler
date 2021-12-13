@@ -20,10 +20,6 @@ def vocaLoad():
         basic[f"day{i+1}"] = []
         grade800[f"day{i+1}"] = []
 
-    # print(all_day_word)
-    # print(all_day_mean)
-    # print(lines)
-    # print("=======================================")
     for i, line in enumerate(lines):
         if line.startswith("#day"):
             day_count += 1
@@ -57,9 +53,9 @@ def vocaLoad():
             if len(word_mean) == 2:
                 grade800[f"day{day_count}"].append([(word_mean[0], ""), word_mean[1].replace("\n", "")])
 
-    print("DAY: ", all_day)
-    print("토익 기초: ", basic)
-    print("800점 단어: ", grade800)
+    # print("DAY: ", all_day)
+    # print("토익 기초: ", basic)
+    # print("800점 단어: ", grade800)
 
     return all_day, basic, grade800
 
