@@ -23,6 +23,10 @@ day_checkval = {}
 all_day, basic, grade800 = vocaLoad()
 
 
+def backSpace():
+    run.withdraw()
+    menu.deiconify()
+
 # 단어 재 셔플
 def reShuffleWord():
     for i in treeview.get_children():
@@ -92,11 +96,14 @@ def tableResizeBlock(event):
 
 # Run 윈도우-----------------------------------------------------------------------------------------------
 def createRunWindow():
-    global treeview
+    global treeview, run
+    
+    menu.withdraw()
 
     run = Toplevel(menu)
     run.title("VOCA - RUN")
-    run.geometry("900x770")
+    run.geometry("900x770+300+0")
+    # run.resizable(False, False)
 
     # 토익 단어장
     voca_label = Label(run, text=f"토익 단어장", font=fontStyle)
@@ -119,15 +126,11 @@ def createRunWindow():
     treeview = ttk.Treeview(voca_frame, columns=["one", "two"], displaycolumns=["one", "two"])
     treeview.pack(side="left", fill="y", expand=True)
 
-    ###########
+    # 스크롤 바 생성
     scroll = ttk.Scrollbar(voca_frame, orient="vertical", command=treeview.yview)
     scroll.pack(side='right', fill='y')
 
     treeview.configure(yscrollcommand=scroll.set)
-
-
-    #########
-
 
     # 테이블 사이즈 변경 비활성화
     treeview.bind('<Button-1>', tableResizeBlock)
@@ -153,7 +156,9 @@ def createRunWindow():
     runbtn_frame.grid_columnconfigure(1, weight=1)
 
     shuffle_btn = Button(runbtn_frame, text="단어 섞기", font=fontStyle, command=reShuffleWord)
-    shuffle_btn.pack()
+    back_btn = Button(runbtn_frame, text="뒤로가기", font=fontStyle, command=backSpace)
+    shuffle_btn.grid(row=3, column=0, sticky='ew')
+    back_btn.grid(row=3, column=1, sticky='ew')
 
     # 키 입력 이벤트
     run.bind("<space>", keyEvent)
@@ -167,7 +172,7 @@ def main():
     global day_checkval
 
     menu.title("VOCA - MENU")
-    menu.geometry("830x300")
+    menu.geometry("830x300+350+200")
     menu.resizable(False, False)
 
     # 옵션1. DAY 선택
