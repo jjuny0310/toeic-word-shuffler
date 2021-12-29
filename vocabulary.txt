@@ -10,7 +10,7 @@ appliance/전기 제품
 requirement/필요조건, 요건
 require/요구하다
 prerequisite/필요조건
-meet/만족시키다
+meet/(필요,요구 등을)만족시키다
 satisfy/만족시키다
 fulfill/만족시키다
 meet one's needs/~의 욕구를 만족시키다
@@ -21,10 +21,10 @@ qualified/자격 있는, 적격의
 qualify/~에게 자격을 주다, 적임으로 하다
 qualification/자격
 qualifier/예선 통과자, 예선전
-certified/보증된, 증명된
+certified/보증된, 증명된, 공인된
 be qualified for/~에 자격이 있다
 candidate/후보자, 지원자
-confident/확신, 자신, 신임
+confidence/확신, 자신, 신임
 confident/확신하는, 자신만만한
 confidence in/~에 대한 확신, 신임
 in confidence/비밀로
@@ -36,7 +36,7 @@ interview/면접, 면접을 보다
 hire/고용하다
 training/교육, 훈련
 reference/추천서, 참고
-refer/참고하다
+refer/참조하다
 position/일자리, 직책, 두다
 achievement/성취, 달성
 achiever/크게 성공한 사람
@@ -92,12 +92,11 @@ entitle/자격을 주다
 degree/학위
 payroll/임금 대장, 급료 명부
 on the payroll/고용되어
-recruit/(신입 사원 등을)모집하다, 신입사원
+recruit/(신입 사원 등을)모집하다, 신입 사원
 recruitment/신규 모집
-recruiter/신입 회원을 모집하는 사람
+recruiter/신입 회원을 모집하는 사람, 신입 회원
 certification/증명서, 증명
 certify/증명하다
-certified/증명된, 공인된
 certificate/증명서
 occupation/직업
 occupy/차지하다
@@ -116,7 +115,7 @@ completion/완료, 완성
 fair/공정한, 타당한
 graduation/졸업
 in fact/사실은
-job fair/취업 박함회
+job fair/취업 박람회
 job offer/일자리 제안
 list/목록, 명단, 목록에 기입하다
 newcomer/새로 온 사람, 신입사원
@@ -132,16 +131,12 @@ be admitted to/~에 입장이 허용되다
 be advised to do/~할 것을 권유받다
 criteria/기준
 decade/10년
-employ/고용하다
 insufficient/불충분한
 minimum/최소한도, 최소한의
 party/단체, 당사자, 연회
 plentiful/풍부한
-profession/직업
 
 -800점 완성 단어
-achieve one's goal/목표를 달성하다
-apprentice/견습생, 도제
 
 #day2
 attire/복장, 옷차림새
