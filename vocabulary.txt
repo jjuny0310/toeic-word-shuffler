@@ -106,7 +106,6 @@ job/직업
 vocation/직업
 wage/임금, 급료
 salary/봉급
-conpensation/보상, 보수
 
 -토익 기초 단어
 application form/신청서
@@ -139,13 +138,175 @@ plentiful/풍부한
 -800점 완성 단어
 
 #day2
-attire/복장, 옷차림새
+attire/복장, 옷차림채
 code/규범, 관례, 암호
+concern(명사)/우려, 걱정, 문제, 일
+concern(동사)/~을 걱정스럽게 하다, 영향을 미치다, 관련되다
+concerning/~에 관하여
+concerned/염려하는, 관련된
+matter/문제, 일
+worry/걱정시키다
+involve/~에 영향을 미치다, 관련시키다
+concern about/~에 대한 우려, 걱정
+concern over/~에 대한 우려, 걱정
+questions concerning/~에 관한 질문
+regarding/~에 관하여
+policy/규정, 보험, 증권
+comply/준수하다, 따르다
+compliance/준수
+comply with/(규칙, 요구 등을)준수하다, 따르다
+observe/(규칙 등을)준수하다, ~을 관찰하다
+obey/(지시에)따르다, (사람에게)복종하다
+regulation/규정
+regulate/규제하다, 통제하다
+control/통제하다
+safety regulations/안전 규정
+customs regulations/관세 규정
+exception/예외
+exceptional/예외적인, 매우 뛰어난
+exceptionally/예외적으로, 대단히
+except/~을 제외하고
+with the exception of/~을 제외하고
+with very few exceptions/거의 예외 없이
+adhere/지키다, 고수하다
+adherence/고수, 충실
+severely/엄격하게, 심하게
+severe/가혹한, 엄격한
+sternly/엄격하게
+leniently/관대하게
+refrain/자제하다, 삼가다
+refrain from/~을 자제하다
+permission/허락, 허가
+permit/허락하다
+access(명사)/이용 권한, 접근, 통로
+access(동사)/~에 접근하다, 도달하다
+accessible/출입할 수 있는, 이용할 수 있는
+accessibility/접근(가능성)
+have access to/~에 접근 권한을 가지고 있다
+access the documents/문서를 열람하다
+thoroughly/철저하게, 완전히, 대단히
+thorough/철저한, 완전한
+revise/(의견, 계획을)수정하다, 변경하다
+revision/수정, 변경
+approach(명사)/접근법, 처리 방법
+approach(동사)/ 다가오다, 가까워지다
+approval/승인, 인가
+approve/~을 승인하다
+reject/~을 거부하다
+turn down/~을 거부하다
+form/종류, 유형, 양식
+formal/공식적인, 형식적인
+formation/형성
+a form of identification/신분증 한 가지
+immediately/즉시, 곧
+immediate/즉시의
+immediately after/~직후
+immediately upon arrival/도착 즉시
+inspection/점검, 검사
+inspect/점검하다, 검사하다
+arrangement/준비, 마련, 주선
+arrange/마련하다, 주선하다
+make arrangements to do/~할 준비를 하다
+make arrangements for/~의 준비를 하다
+procedure/절차
+proceed/나아가다, 진행하다
+procedural/절차상의
+negative/부정적인, 비관적인
+mandate(동사)/명령하다, 지시하다
+mandate(명사)/권한, 지시, 명령
+effect(명사)/(법률 등의)효력, 효과, 영향
+effect(동사)/결과로서 ~을 가져오다
+effective/효과적인
+effectively/효과적으로
+in effect/(법률 등이)효력 있는, 실시된
+come into effect/실시되다, 발효되다
+take effect/(법의)효력이 나타나다, 시행되다
+have an effect on/~에 영향을 미치다
+secondary effect/부수적 효과
+drastically/심하게, 과감하게, 철저하게
+drastic/과감한, 극단적인
+according to/~에 따라
+enable/(무엇을)가능하게 하다
+standard/기준, 표준
+standardize/표준화하다
+constant/지속적인, 끊임없이 계속하는
+constantly/끊임없이
+act(명사)/법령, 결의서, 행위, 행동
+act(동사)/결정하다, 판결을 내리다, 행동하다
+compensation/보상금, 보상, 보수
+compensate/보상하다, 보상금을 주다
+compensation for/~에 대한 보상
+ban/금지, 금지하다
+obligation/의무, 책임
+authorize/~을 인가하다, 권한을 부여하다
+authorized/공인된
+authorization/허가
+authority/권한, 당국
+an authorized service center/공인된 서비스 센터
+unauthorized reproduction/불법 복제
+unauthorized/허가받지 않은
+prohibit/금지하다
+prohibition/금지
+forbid/금지하다
+prohibit A from -ing/A가 ~하는 것을 금지하다
+forbid A from -ing(or, to 부정사)/A가 ~하는 것을 금지하다
+abolish/(제도, 법률 등을)폐지하다
+abolition/폐지
+enforce/(법률을)시행하다, 집행하다
+enforcement/시행, 집행
+habit/습관, 버릇
+habitual/습관적인
+convention/관례, 관습
+legislation/법률, 법규
+legislate/법률을 제정하다
+legislator/입법자
+restrict/한정하다, 제한하다
+restriction/제한
+restrictive/제한하는
+limit/한정하다, 제한하다
+restrict A to B/A를 B로 한정하다
+lift a restriction/제한을 풀다
+raise a restriction/제한을 풀다
 
 -토익 기초 단어
 bend over/몸을 앞으로 숙이다
 by oneself/혼자 힘으로
+date/날짜
+get used to/~에 익숙해지다
+if it's okay with you/당신만 괜찮다면
+in case of/~의 경우에는
+in rows/줄지어, 여러 줄로
+item/항목
+legal/법률의, 합법적인
+let go/놓아주다
+ruler/자
+stop/멈추다
+busy/바쁜
+curriculum/교과 과정
+dress/의복, 옷을 차려입다
+enough/충분한, 필요한 만큼의 수(or, 양)
+finish/끝내다, 완료하다
+have a problem (in) -ing/~하는 데 문제가 있다
+large/큰, 넓은
+law firm/법률 회사
+loudly/시끄럽게
+plus/~을 더한, ~을 더하여
+protect/보호하다
+seldom/드물게, 좀처럼 ~않는
+theft/절도
+try/시도하다, 노력하다
+witness/목격자, 증인
+write/글씨를 쓰다, 저술하다
 
 -800점 완성 단어
-against the law/법에 위배되는
-by all means/반드시, 무슨 일이 있어도, 물론이지
+
+#day3
+
+
+-토익 기초 단어
+
+
+-800점 완성 단어
+
+
+
