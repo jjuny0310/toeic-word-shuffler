@@ -8,7 +8,7 @@ apply/지원하다, 적용하다
 application/신청, 신청서, 적용
 appliance/전기 제품
 requirement/필요조건, 요건
-require/요구하다
+require/요구하다, 필요로하다
 prerequisite/필요조건
 meet/(필요,요구 등을)만족시키다
 satisfy/만족시키다
@@ -54,12 +54,11 @@ in association with/~와 제휴하여
 condition/조건
 employment/고용
 employ/고용하다
-hire/고용하다
 lay off/해고하다
 dismiss/해고하다
 fire/해고하다
 employee/직원
-employer/고용인
+employer/고용주
 unemployment/실업
 lack/~이 없다, 부족
 managerial/관리의
@@ -81,7 +80,6 @@ attract/마음을 끌다
 appeal to/~의 흥미를 끌다, ~에게 호소하다
 specialize/~을 전공하다, 전문적으로 다루다
 apprehensive/걱정하는, 염려하는
-concerned/걱정하는
 consultant/고문, 컨설턴트
 consult/~와 상담하다
 consult + 전문가/~와 상담하다
@@ -94,7 +92,7 @@ payroll/임금 대장, 급료 명부
 on the payroll/고용되어
 recruit/(신입 사원 등을)모집하다, 신입 사원
 recruitment/신규 모집
-recruiter/신입 회원을 모집하는 사람, 신입 회원
+recruiter/채용담당자
 certification/증명서, 증명
 certify/증명하다
 certificate/증명서
@@ -143,10 +141,10 @@ code/규범, 관례, 암호
 concern(명사)/우려, 걱정, 문제, 일
 concern(동사)/~을 걱정스럽게 하다, 영향을 미치다, 관련되다
 concerning/~에 관하여
-concerned/염려하는, 관련된
+concerned/걱정하는, 염려하는, 관련된
 matter/문제, 일
 worry/걱정시키다
-involve/~에 영향을 미치다, 관련시키다
+involve/포함하다, 관련시키다
 concern about/~에 대한 우려, 걱정
 concern over/~에 대한 우려, 걱정
 questions concerning/~에 관한 질문
@@ -163,8 +161,8 @@ control/통제하다
 safety regulations/안전 규정
 customs regulations/관세 규정
 exception/예외
-exceptional/예외적인, 매우 뛰어난
-exceptionally/예외적으로, 대단히
+exceptional/예외적인, 특별한, 뛰어난
+exceptionally/예외적으로, 특별하게, 뛰어나게
 except/~을 제외하고
 with the exception of/~을 제외하고
 with very few exceptions/거의 예외 없이
@@ -182,7 +180,7 @@ access(명사)/이용 권한, 접근, 통로
 access(동사)/~에 접근하다, 도달하다
 accessible/출입할 수 있는, 이용할 수 있는
 accessibility/접근(가능성)
-have access to/~에 접근 권한을 가지고 있다
+have access to/~에 접근 권한을 가지다
 access the documents/문서를 열람하다
 thoroughly/철저하게, 완전히, 대단히
 thorough/철저한, 완전한
@@ -230,7 +228,7 @@ enable/(무엇을)가능하게 하다
 standard/기준, 표준
 standardize/표준화하다
 constant/지속적인, 끊임없이 계속하는
-constantly/끊임없이
+constantly/지속적으로
 act(명사)/법령, 결의서, 행위, 행동
 act(동사)/결정하다, 판결을 내리다, 행동하다
 compensation/보상금, 보상, 보수
@@ -280,8 +278,6 @@ item/항목
 legal/법률의, 합법적인
 let go/놓아주다
 ruler/자
-stop/멈추다
-busy/바쁜
 curriculum/교과 과정
 dress/의복, 옷을 차려입다
 enough/충분한, 필요한 만큼의 수(or, 양)
@@ -296,7 +292,6 @@ seldom/드물게, 좀처럼 ~않는
 theft/절도
 try/시도하다, 노력하다
 witness/목격자, 증인
-write/글씨를 쓰다, 저술하다
 
 -800점 완성 단어
 
