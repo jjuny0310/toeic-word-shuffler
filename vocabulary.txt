@@ -66,7 +66,7 @@ manage/경영하다, 관리하다
 supervisory/관리의, 감독하는
 diligent/성실한
 diligence/근면, 성실
-diligently/부지런히, 열심히
+diligently/성실하게
 familiar/익숙한, 친숙한
 familiarize/익숙하게 하다
 unfamiliar/익숙하지 않은, 잘 모르는
@@ -76,8 +76,8 @@ proficient/숙달한, 능숙한
 prospective/장래의, 미래의
 prospect/전망, 예상
 appeal/관심을 끌다, 매력적이다
-attract/마음을 끌다
-appeal to/~의 흥미를 끌다, ~에게 호소하다
+attract/관심을 끌다
+appeal to/~의 관심을 끌다, ~에게 호소하다
 specialize/~을 전공하다, 전문적으로 다루다
 apprehensive/걱정하는, 염려하는
 consultant/고문, 컨설턴트
@@ -296,10 +296,158 @@ witness/목격자, 증인
 -800점 완성 단어
 
 #day3
-
+accustomed/익숙한
+corporation/주식회사, 법인
+corporate/회사의, 법인의
+demanding/요구가 많은, 힘든
+demand/요구하다
+colleague/(직업상의)동료
+associate/동료
+coworker/동료
+peer/동료
+division/부서
+divide/나누다
+category/카테고리, 부문
+compartment/구획, 칸막이
+request/요청, 요청하다
+commission/의뢰하다, 주문하다
+upon request/요청 시에
+request for/~에 대한 요청
+request that + 주어 + 동사원형/~가 ~해 줄 것을 요청하다
+be requested to do/~하도록 요청받다, ~하시기 바랍니다
+efficiently/효율적으로
+efficient/효율적인
+efficiency/효율
+manage/~을 경영하다, 가까스로 하다
+management/경영, 경영진
+manageable/관리할 수 있는
+handle/처리하다, 다루다
+succeed/성공하다
+manage to do/가까스로 ~하다, 그럭저럭 ~해내다
+under the new management/새로운 경영진 하에
+submit/제출하다
+submission/제출, 제출물
+turn in/제출하다
+hand in/제출하다
+directly/곧바로
+direct/지도하다, 직접적인
+direction/방향
+remind/~에게 상기시키다, 일깨우다
+reminder/상기시켜 주는 것, 메모
+remind 사람 + of 내용(or, that절)/~에게 ~을 상기시키다
+remind 사람 to do/~에게 ~하라고 일러주다
+be reminded to do/~할 것을 잊지 않도록 주의 받다
+instruct/지시하다, 가르치다
+instruction/지시
+instructor/강사
+deadline/마감일, 마감 시간
+sample(명사)/견본, 샘플, 표본
+sample(동사)/시식하다, (견본으로 질을)시험하다
+notify/~에게 통지하다, 알리다
+notification/통지
+inform/알리다, 통지하다
+notify 사람 + of 내용(or, that절)/~에게 ~에 대해 통지하다
+announce (to 사람) that절/(~에게)~을 발표하다
+reveal 내용 (to 사람)/(~에게) ~을 누설하다, 폭로하다
+perform/(일, 과제, 의무 등을) 행하다, 실행하다
+conduct/하다, 행동하다, 실행하다
+complete/완수하다
+monitor(명사)/화면, 모니터
+monitor(동사)/감독하다, 감시하다, 검토하다
+deserve/~할 만하다, ~할 가치가 있다
+deserved/(상, 벌, 보상 등이)응당한
+well deserved advancement/응당한 승진
+assignment/일, 임무, 과제
+entire/전체의
+entirety/전체, 전부
+release(명사)/출시, 발매
+release(동사)/발표하다, 공개하다
+press release/보도 자료
+release date/발표일, 출시일, 개봉일
+extension/연장, 연기, (전화의)내선
+extend/연장하다, 늘리다
+extensive/광범한
+electronically/컴퓨터 통신망으로, 컴퓨터로
+electronic/컴퓨터 통신망의
+attendance/출근, 출석
+attend/~에 출석하다, 참석하다
+attendant/수행원, 안내원
+attendance records/출근 기록
+a certificate of attendance/수료증
+absolutely/절대적으로, 완전히
+absolute/완전한, 절대적인
+delegate/(권한 등을) 위임하다, 대표
+delegation/(집합적) 대표단, (권한의) 위임
+attentively/주의 깊게, 조심스럽게
+supervision/감독
+supervise/감독하다
+supervisor/감독관
+workshop/워크숍, 연수
+draw/끌다, 끌어당기다
+attract/(주의, 흥미 등을)끌다, (어디로) 끌어들이다
+revision/수정, 개정
+revise/개정하다
+revised/개정된
+make a revision/수정하다
+revised edition/개정판
+revised policy/개정된 정책
+reluctantly/마지못해, 꺼려하여
+acquaint/~에게 숙지시키다, 잘 알게 하다
+acquaint A with B/A에게 B를 숙지 시키다
+acquaintance/지인
+convey/(용건을)전달하다
+conveyor/운반인, 전달자
+convey A to B/A를 B에게 전달하다
+check(명사)/검사
+check(동사)/검사하다, 조사하다, 확인하다
+inspect/검사하다
+examine/검사하다
+check A for B/B의 유무를 확인하기 위해 A를 검사하다
+check for A/A를 확인하다
+headquarters/본부
+file(명사)/서류
+file(동사)/(서류를) 정리하다, (서류, 신청, 고소 등을) 제기하다, 제출하다
+file a claim/(보험금 등을) 청구하다
+oversee/감독하다
+involved/관여하는, 관계된, 연루된
+involve/관계시키다
+involvement/관련, 연루
+be involved in/~에 관여하다
+concentrate/집중하다, 집중시키다
+concentration/집중
+concentrated/(정신, 노력 등이) 집중된
+concentrate on/~에 집중하다
+concentrate A on B/A를 B에 집중시키다
 
 -토익 기초 단어
-
+a sheet of/~ 한 장
+business card/명함
+cartridge/(프린터 등의) 잉크 카트리지
+daily/매일의, 날마다, 매일
+edit/편집하다, 수정하다
+hand/손, 건네주다
+in order to do/~하기 위해서
+laptop/휴대용 컴퓨터
+name tag/명찰, 명패
+on vacation/휴가 중인
+paper jam/(복사기에서의)종이 걸림
+paperwork/문서 작업
+partition/칸막이, 분할
+rush hour/(출퇴근 시의) 교통 혼잡 시간
+section/부분, 구역
+sheet/시트, 종이
+tabletop/테이블 윗면
+telephone call/전화 통화
+trash bin/쓰레기통
+upstairs/위층의, 위층으로, 위층에
+as if/마치 ~인 듯이
+as well as/~에 더하여, 게다가
+be aware of/~을 알고 있다
+be known as/~으로 알려져 있다
+be likely to/~할 가능성이 있다
+detail/세부 사항
+offering/제공된 것
+on one's own/혼자서, 혼자 힘으로
 
 -800점 완성 단어
 
