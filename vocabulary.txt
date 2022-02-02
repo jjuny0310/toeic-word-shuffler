@@ -301,7 +301,7 @@ corporation/주식회사, 법인
 corporate/회사의, 법인의
 demanding/요구가 많은, 힘든
 demand/요구하다
-colleague/(직업상의)동료
+colleague/(직업상의) 동료
 associate/동료
 coworker/동료
 peer/동료
@@ -314,7 +314,7 @@ commission/의뢰하다, 주문하다
 upon request/요청 시에
 request for/~에 대한 요청
 request that + 주어 + 동사원형/~가 ~해 줄 것을 요청하다
-be requested to do/~하도록 요청받다, ~하시기 바랍니다
+be requested to do/~하도록 요청받다
 efficiently/효율적으로
 efficient/효율적인
 efficiency/효율
@@ -323,7 +323,7 @@ management/경영, 경영진
 manageable/관리할 수 있는
 handle/처리하다, 다루다
 succeed/성공하다
-manage to do/가까스로 ~하다, 그럭저럭 ~해내다
+manage to do/가까스로 ~하다
 under the new management/새로운 경영진 하에
 submit/제출하다
 submission/제출, 제출물
@@ -347,7 +347,7 @@ notify/~에게 통지하다, 알리다
 notification/통지
 inform/알리다, 통지하다
 notify 사람 + of 내용(or, that절)/~에게 ~에 대해 통지하다
-announce (to 사람) that절/(~에게)~을 발표하다
+announce (to 사람) that절/(~에게) ~을 발표하다
 reveal 내용 (to 사람)/(~에게) ~을 누설하다, 폭로하다
 perform/(일, 과제, 의무 등을) 행하다, 실행하다
 conduct/하다, 행동하다, 실행하다
@@ -355,7 +355,7 @@ complete/완수하다
 monitor(명사)/화면, 모니터
 monitor(동사)/감독하다, 감시하다, 검토하다
 deserve/~할 만하다, ~할 가치가 있다
-deserved/(상, 벌, 보상 등이)응당한
+deserved/(상, 벌, 보상 등이) 응당한
 well deserved advancement/응당한 승진
 assignment/일, 임무, 과제
 entire/전체의
@@ -364,7 +364,7 @@ release(명사)/출시, 발매
 release(동사)/발표하다, 공개하다
 press release/보도 자료
 release date/발표일, 출시일, 개봉일
-extension/연장, 연기, (전화의)내선
+extension/연장, 연기, (전화의) 내선
 extend/연장하다, 늘리다
 extensive/광범한
 electronically/컴퓨터 통신망으로, 컴퓨터로
@@ -384,7 +384,7 @@ supervise/감독하다
 supervisor/감독관
 workshop/워크숍, 연수
 draw/끌다, 끌어당기다
-attract/(주의, 흥미 등을)끌다, (어디로) 끌어들이다
+attract/(주의, 흥미 등을) 끌다, (어디로) 끌어들이다
 revision/수정, 개정
 revise/개정하다
 revised/개정된
@@ -395,7 +395,7 @@ reluctantly/마지못해, 꺼려하여
 acquaint/~에게 숙지시키다, 잘 알게 하다
 acquaint A with B/A에게 B를 숙지 시키다
 acquaintance/지인
-convey/(용건을)전달하다
+convey/(용건을) 전달하다
 conveyor/운반인, 전달자
 convey A to B/A를 B에게 전달하다
 check(명사)/검사
@@ -406,7 +406,7 @@ check A for B/B의 유무를 확인하기 위해 A를 검사하다
 check for A/A를 확인하다
 headquarters/본부
 file(명사)/서류
-file(동사)/(서류를) 정리하다, (서류, 신청, 고소 등을) 제기하다, 제출하다
+file(동사)/정리하다, (신청, 고소 등을) 제기하다, 제출하다
 file a claim/(보험금 등을) 청구하다
 oversee/감독하다
 involved/관여하는, 관계된, 연루된
@@ -430,7 +430,7 @@ in order to do/~하기 위해서
 laptop/휴대용 컴퓨터
 name tag/명찰, 명패
 on vacation/휴가 중인
-paper jam/(복사기에서의)종이 걸림
+paper jam/(복사기에서의) 종이 걸림
 paperwork/문서 작업
 partition/칸막이, 분할
 rush hour/(출퇴근 시의) 교통 혼잡 시간
