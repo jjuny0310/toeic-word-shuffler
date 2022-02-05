@@ -637,7 +637,154 @@ task/일, 직무
 -800점 완성 단어
 
 #day5
+sophisticated/(기계가) 정교한, 복잡한, 세련된
+sophistication/정교함
+complex/복잡한
+refined/세련된
+timely/시기적절한, 때를 맞춘
+in a timely manner/때맞춰
+realistically/현실적으로
+realistic/현실적인
+realism/현실주의
+promptly/즉시, 정각에
+prompt(형용사)/신속한, 즉각적인
+prompt(동사)/(어떤 일이 일어나도록) 하다, 촉발하다
+immediately/즉시
+instantly/즉시
+abruptly/갑자기
+accessible/출입할 수 있는, 이용할 수 있는
+access(명사)/이용 권한, 접근
+access(동사)/~에 접근하다
+accessibility/접근(가능성)
+make A accessible to B/A를 B가 이용할 수 있게 하다
+accessible by bus(교통수단)/버스로 갈 수 있는
+implement/실시하다, 실행하다
+implementation/실행
+carry out/실행하다
+execute/실행하다
+implement a plan/계획을 실행하다
+implement measures/조치를 취하다
+feedback/의견, 반응
+outstanding/우수한, (부채 등이) 미지불된
+exceptional/우수한, 매우 뛰어난
+overdue/연체된, 미납의
+unpaid/연체된, 미납의
+inform/~에게 알리다
+information/정보
+informative/유익한
+replacement/교체, 후임자
+announcement/공고, 발표
+announce/알리다
+department/부서
+permanently/영구적으로, 불변으로
+indefinitely/무기한으로
+fulfill/만족시키다, (약속, 의무 등을) 지키다
+fulfillment/성취, 달성, 이행
+outline(명사)/개요
+outline(동사)/설명하다, 약술하다
+explain/설명하다
+explanation/설명, 해명, 이유
+contain/포함하다, (감정을) 억누르다
+include/포함하다
+hold back/(감정을) 억누르다
+compile/(자료 등을) 편집하다, 모으다
+subsequent to/~이후에, ~다음에
+overview/개요, 개관
+provider/공급자, 제공자
+matter(명사)/문제, 일
+matter(동사)/중요하다, 문제되다
+expertise/전문 지식, 전문 기술
+expert/전문가
+have expertise in A/A에 전문성이 있다
+area of expertise/전문 분야
+demonstrate/증명하다, (모형, 실험으로) 설명하다
+demonstration/증명
+prove/증명하다
+display/전시하다, 진열하다
+remainder/나머지
+remain/남다, 여전히 ~ 이다
+remaining/남은, 남아있는
+balance/잔액
+essential/필수적인, 극히 중요한, 본질적인
+be essential to(for)/~에 있어서 필수적이다
+divide/분배하다, 나누다
+division/부서, 분할
+dividend/배당금
+break up/~을 분리하다
+divide A into B/A를 B로 나누다
+be divided into/~로 나눠지다
+cut/삭감하다
+major/주요한, 중대한
+compliance/(명령, 법규에의) 준수
+comply/(규칙에) 따르다
+in compliance with/~을 준수하여
+out of compliance with/~을 준수하지 않는
+clarify/명확하게 하다
+clarification/설명, 해명
+face(명사)/표면, 외관
+face(동사)/(문제 등에) 직면하다, 향하다, 마주보다
+confront/직면하다, 맞서다
+follow/~을 따라가다, 주시하다, (분명히) 이해하다
+following/~의 후에, 다음의
+monitor/지켜보다
+pay attention to/~에 집중하다, 주의하다
+precede/~에 선행하다
+aspect/관점, 국면
+apparently/외관상으로는
+seemingly/외관상으로는
+aware/알고 있는, 인식하고 있는
+awareness/자각, 인식
+be aware + of(that절)/~을 알고 있다
+extended/(기간 등을) 연장한, 장기간에 걸친
+extend/연장하다, 늘리다
+extension/연장, 확장
+work extended hours/연장 근무하다
+extended lunch break/늘어난 점심시간
+accidentally/뜻하지 않게, 우연히
+accident/사고
+accidental/우연한
+deliberately/고의로
+advisable/바람직한, 합당한
+advise/충고하다
+advice/충고
+concerned/염려하는, 걱정하는, 관련된
+concern(명사)/걱정
+concern(동사)/~을 걱정시키다, ~와 관계가 있다
+be concerned about/~에 대해 걱정하다
+be concerned with/~와 관계가 있다, ~에 관심이 있다
+speak/말하다
+speak to 사람 + about 내용/~에게 ~에 대해 말하다
+tell 사람 + that절/~에게 ~을 말하다
+say (to 사람) + that절/(~에게) ~을 말하다
+
 -토익 기초 단어
+briefcase/서류 가방
+business trip/출장
+come over/방문하다, 오다
+counter/계산대, 반대의
+e-mail/이메일, 이메일을 보내다
+filing cabinet/서류 정리 캐비닛
+folder/서류철
+headache/두통
+internship/인턴 신분, 인턴 기간
+redo/다시 하다
+table lamp/탁상 전기스탠드
+thanks to/~ 덕택에
+timetable/시간표
+window display/쇼윈도의 상품 진열
+chief(형용사)/주된, 최고위자인
+chief(명사)/최고위자
+conceal/감추다
+correct/맞는, 정정하다
+economic/경제의
+embrace/받아들이다, 포용하다
+forum/토론회
+instead of/~ 대신에
+mission/임무
+programming/방송 편성
+rush/서두르다
+unfortunately/불행하게도, 유감스럽게도
+
 -800점 완성 단어
 
 #day6
