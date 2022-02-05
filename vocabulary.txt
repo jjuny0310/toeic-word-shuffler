@@ -648,7 +648,7 @@ realistic/현실적인
 realism/현실주의
 promptly/즉시, 정각에
 prompt(형용사)/신속한, 즉각적인
-prompt(동사)/(어떤 일이 일어나도록) 하다, 촉발하다
+prompt(동사)/촉발하다
 immediately/즉시
 instantly/즉시
 abruptly/갑자기
