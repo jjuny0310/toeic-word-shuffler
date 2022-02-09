@@ -788,7 +788,161 @@ unfortunately/불행하게도, 유감스럽게도
 -800점 완성 단어
 
 #day6
+rest(명사)/휴식, 나머지
+rest(동사)/쉬다, 휴식을 취하다
+exhibition/전시회
+exhibit/전시, 전시하다
+celebrity/유명 인사
+live(형용사)/(라디오, TV가) 생방송인
+live(동사)/거주하다, 살다
+living/살아 있는, 현재 사용되는
+alive/살아 있는
+improvise/즉흥적으로 하다, 즉석에서 만들다
+improvisation/즉흥 연주
+popular/인기 있는
+popularity/인기, 평판
+likable/호감이 가는
+preferred/선호되는
+favorite/가장 좋아하는
+donation/기부, 기증
+donate/기부하다
+donor/기증자, 증여자
+alumni/동창생들, 졸업생들
+present(명사)/선물
+present(형용사)/현재의, 참석한
+present(동사)/제시하다
+present A with B/A에게 B를 제공하다
+present B to A/B를 A에게 제공하다
+presentation/발표, 공연
+presenter/발표자
+presently/현재
+admission/입장
+admit/입장을 허락하다
+free admission/무료 입장
+admission + fee(price)/입장료
+banquet/연회, 만찬
+anniversary/기념일
+required/필수의, 의무적인
+be required for/~에 필수적이다
+be required to do/~하는 데 필수적이다
+succeed/성공하다, 뒤를 잇다
+success/성공
+successful/성공적인
+successive/연속의, 상속의
+successively/연속하여, 잇따라서
+collection/소장품, 수집물, 징수, 수금
+collect/모으다
+collector/수집가
+collectable/수집 대상물
+ceramic tiles collection/도자기 타일 모음
+toll collection/통행료 징수
+collect A from B/A를 B로부터 수집하다
+fundraising/모금
+resume/재개하다, 다시 시작하다
+issue/(출판물의) 제 ~호, 문제, 쟁점
+common issue/공통적인 문제
+address an issue/쟁점을 거론하다, 문제를 제기하다
+subscription/(정기 발행물의) 구독
+subscribe/구독하다
+appear/나타나다, 출현하다
+appearance/출현
+disappear/사라지다
+it appears that절/~인 것 같다
+appear in court/법정에 출두하다
+accompany/동행하다, 동반하다
+edition/(간행물의) 판
+specifically/명확하게, 분명히, 특히, 특별히
+anonymous/익명의, 이름을 모르는
+commit/헌신하다, 전념하다
+commitment/헌신, 전념
+dedicate/헌신하다, 전념하다
+devote/(몸, 노력, 시간, 돈을) ~에 바치다, 쏟다
+be committed to ~ing/~하는 데 헌신하다
+informative/유익한, 정보를 주는
+inform/알리다, 알려 주다
+informed/정보에 근거한
+information/정보
+audience/청중, 관중
+author/작가, 저자
+note(명사)/메모
+note(동사)/주목하다, 특별히 언급하다
+notable/뛰어난, 중요한
+state/(정식으로) 말하다, 쓰다, 언급하다
+antique/골동품
+manuscript/원고
+beneficial/유익한, 이로운
+benefit/이익
+harmful/해로운
+be beneficial for 사람/~에게 이익이 되다
+be beneficial to/~에 이익이 되다
+upcoming/다가오는, 곧 있을
+upcoming school year/다가오는 학년
+upcoming event/곧 있을 행사
+upcoming mayoral election/곧 있을 시장 선거
+forthcoming/다가오는, 곧 있을
+lend/빌려주다
+borrow/빌리다
+rent/~을 임대하다, 임차하다
+current/현재의, 현행의, 통용되는
+currently/현재
+contemporary/현대의
+valid/유효한
+local/지방의, 고장의
+locality/장소, 소재
+locally/국지적으로
+localized/국지적인, 국부적인
+variety/다양성, 변화, 종류, 품종
+various/다양한
+vary/다르다, 바뀌다
+range/다양성
+a variety of + 복수명사/다양한~
+advocate(명사)/옹호자
+advocate(동사)/옹호하다
+opponent/반대자
+an advocate of/~의 옹호자
+contributor/기고가, 공헌자
+contribute/기부하다, 기여하다
+contribution/기부, 공헌
+contributor to/~의 기고가
+defy/저항하다, (설명, 묘사 등이) 거의 불가능하다
+defiance/저항
+defy description/형언할 수 없다
+fascinating/(감정동사) 매혹적인, 황홀한
+fascinated/(감정동사) 매혹된
+fascinate/매혹하다
+fascination/매혹
+showing/(영화, 연극의) 상영, 전시
+
 -토익 기초 단어
+backpack/배낭
+bike/자전거, 오토바이
+cabin/조종실, 통나무집
+climb a mountain/산에 오르다
+film festival/영화제
+fishing/낚시
+gallery/화랑, 미술관
+invitation/초대
+lawn/잔디, 잔디밭
+paint/물감, 그림을 그리다
+painting/그림, 회화
+play cards/카드놀이를 하다
+public library/공공 도서관
+race/경주, 경주하다
+resort/리조트
+theater/극장
+watch a film/영화를 보다
+adventure/모험
+art museum/미술관
+begin/시작하다
+bring/가져오다
+care for/~을 돌보다, ~를 좋아하다
+concert/콘서트
+length/길이
+leisure/여가
+librarian/사서, 도서관원
+menu/메뉴, 음식, 요리
+sightseeing/관광
+
 -800점 완성 단어
 
 #day7
