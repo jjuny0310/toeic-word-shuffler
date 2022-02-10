@@ -946,7 +946,166 @@ sightseeing/관광
 -800점 완성 단어
 
 #day7
+survey(명사)/설문 조사
+survey(동사)/(설문) 조사하다
+analysis/분석
+analyze/분석하다
+analyst/분석가
+reliable analysis/신뢰할 만한 분석
+market analysis/시장 분석
+respondent/응답자
+respond/응답하다
+monopoly/(상품의) 독점, 전매
+monopolize/독점하다
+have a monopoly on/~에 대한 독점권을 가지다
+competition/경쟁
+compete/경쟁하다
+contend/경쟁하다
+competitive/경쟁적인, 경쟁력 있는
+competitor/경쟁자
+rival/경쟁자
+compete for/~를 두고 경쟁하다
+consistently/항상, 일관되게
+consistent/일관된
+demand(명사)/수요
+demand(동사)/요구하다
+demanding/요구가 지나친
+supply/공급
+demand for/~에 대한 수요, 요구
+do one's utmost/전력을 다하다
+do one's best/최선을 다하다
+expand/확장하다, 확대하다
+expansion/확장, 팽창
+expansive/광범위한
+advanced/고급의, 진보한, 앞선
+advance/(지식, 기술 등이) 증진되다, 진전을 보이다
+advancement/발전, 진보
+postpone/연기하다, 뒤로 미루다
+additional/추가의, 부가적인
+addition/추가, 덧셈
+additive/첨가물, 첨가제
+further/추가의
+appreciate/고맙게 생각하다, 높이 평가하다, 감상하다
+appreciation/감사, 감상
+appreciative/고마워하는, 감탄하는
+value/가치 있게 생각하다
+demonstration/설명, 드러냄, 시연
+demonstrate/입증하다, 보여주다
+buy/사다, 구입하다
+examine/조사하다
+examination/조사, 시험
+investigate/조사하다
+check out/살펴보다
+effective/효과적인, (법률 등이) 발효되는, 시행되는
+effectively/효과적으로
+valid/유효한
+run effectively/효과적으로 작동하다
+like(동사)/좋아하다
+like(전치사)/~와 같이, ~처럼
+such as/~와 같이, ~처럼
+likeness/유사성
+especially/특히
+closely/면밀히, 엄밀히
+close(형용사)/가까운
+close(부사)/가까이
+close(동사)/끝내다, 완료하다
+reserve/예약하다, 지정하다, 보존하다
+reservation/예약
+reserved/내성적인
+cooperate/협력하다, 협동하다
+cooperation/협력, 협동
+cooperative/협력하는
+cooperate with + 사람/~와 협력하다
+cooperate on + 일/~에 대해 협력하다
+very/매우, 대단히, 아주
+far/훨씬, 무척
+consecutive/연속적인
+consecutively/연속적으로
+successive/연속적인
+for the third consecutive year/3년 연속으로
+for three consecutive years/3년 연속으로
+expectation/예상, 기대
+expect/예상하다, 기대하다
+anticipation/예상, 기대
+surpass expectations/기대를 넘어서다
+above(beyond) one's expectations/기대 이상으로
+publicize/공표하다, 광고하다, 선전하다
+raise(명사)/임금 인상
+raise(동사)/높이다, 올리다, (의문을) 제기하다
+voice/(감정, 의견 등을) 말로 나타내다
+lift/들어 올리다
+rise/(자동사) 오르다
+extremely/극도로, 대단히
+extreme(명사)/극단
+extreme(형용사)/극도의, 과격한
+exclusively/독점적으로
+affect/~에 영향을 미치다, 불리하게 작용하다
+influence/영향, 영향을 미치다
+target(명사)/목표
+target(동사)/목표로 삼다
+campaign/운동, 캠페인
+probable/개연성이 높은, 유망한
+probably/아마도
+convincing/설득력 있는
+focus(명사)/초점
+focus(동사)/집중하다, 집중시키다
+focus A on B/A를 B에 집중시키다
+be focused on/~에 중점을 두다
+seasonal/계절의, 계절적인
+seasonally/계절따라, 정기적으로
+seasonal variations/계절에 따른 차이
+seasonal demands/계절에 따른 수요
+seasonal changes/계절에 따른 변화
+seasoned traveler/숙련된 여행가
+seasoned/숙련된
+impact/영향, 충격
+have an impact on/~에 영향을 미치다
+comparison/비교
+compare/비교하다
+comparable/필적하는, 비길 만한
+in comparison with/~와 비교해 볼 때
+gap/격차
+gab between A and B/A와 B간의 격차
+generation gap/세대 차이
+hole/구멍
+mounting/증가하는, 오르는
+mount/증가하다, 늘다
+mounting pressure/증가하는 압력
+mounting tension/늘어가는 긴장
+reflective/반영하는
+reflect/반영하다
+reflection/반영
+be reflective of/~을 반영하다
+
 -토익 기초 단어
+after all/결국
+answer the phone/전화를 받다
+as it is/있는 그대로
+be based on/~에 근거하다
+be familiar with/~을 잘 알고 있다, ~에 익숙하다
+concrete/구체적인
+conflict with/~와 상충되다, 충돌하다
+on display/전시된, 진열된
+shadow/그림자, 그늘
+around the world/전 세계에
+array/진열, 배열
+attempt/시도, 시도하다
+audiovisual/시청각의
+avoid/방지하다
+based/~에 기반을 둔
+cinema/영화관, 극장
+conclude/결론을 내리다
+energy drink/에너지 음료
+find out/찾아내다
+informal/격식에 얽매이지 않는, 편안한
+marketplace/시장
+pattern/무늬, 경향, 모범
+public relations department/홍보부
+sales/판매의
+strict/엄격한
+tool/도구
+typical/전형적인, 대표적인
+
 -800점 완성 단어
 
 #day8
