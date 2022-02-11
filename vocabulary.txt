@@ -13,7 +13,7 @@ prerequisite/필요조건
 meet/(필요,요구 등을)만족시키다
 satisfy/만족시키다
 fulfill/만족시키다
-meet one's needs/~의 욕구를 만족시키다
+meet one's needs/~의 요구를 만족시키다
 meet requirements/필요조건을 만족시키다
 meet customer demand/소비자의 요구를 만족시키다
 meet expectations/기대를 충족시키다
@@ -1109,7 +1109,161 @@ typical/전형적인, 대표적인
 -800점 완성 단어
 
 #day8
+advertisement/광고
+marginal/약간의, 주변의
+margin/여백, 여유, 판매, 수익
+approximate/대략의, 근사한
+customer/고객
+patron/단골손님, 고객
+influence/영향, 영향을 미치다
+influential/영향력 있는
+affect/~에 영향을 미치다
+have an influence on/~에 영향을 미치다
+instantly/즉각적으로, 즉시
+instance/사례, 경우
+instant/즉각적인
+urgently/긴급히
+hastily/성급히, 급히
+creative/독창적인, 창조적인
+create/창조하다
+creativity/독창성, 창조성
+creatively/독창적으로, 창조적으로
+aggressively/적극적으로
+aggressive/적극적인
+passively/수동적으로
+aim(명사)/목표, 목적
+aim(동사)/~을 겨누다
+aim to do/~할 작정이다
+제품 + aimed at/~을 겨낭한 제품
+strategy/전략
+strategic/전략적인
+strategically/전략적으로
+indicate/보여주다, 나타내다
+indicative/나타내는
+indication/암시, 조짐
+indicator/지표
+attract/끌다, 유인하다
+attractive/매력적인
+attraction/매력
+experience(명사)/경험, 체험
+experience(동사)/경험하다, 체험하다
+analyze/분석하다, 분석적으로 검토하다
+analysis/분석 연구, 분석
+analyst/분석가
+introduce/(신제품을) 발표하다, 소개하다
+introduction/소개, 도입
+introductory/소개의
+advise/충고하다, 조언해 주다
+advice/충고, 조언
+advisor/조언자
+advisory/조언하는
+advise A to do/A에게 ~하라고 조언하다
+advise A on B/A에게 B에 관해 조언하다
+subscribe/구독하다
+subscription/구독, 구독료
+subscriber/구독자
+absence/부재, 결근, 결석
+during(in) one's absence/~의 부재 중에
+means/방법, 수단
+by means of/~에 의하여, ~으로
+means of/~에 대한 수단(방법)
+instrument for/~을 위한 도구
+prefer/선호하다, (다른 것보다) ~을 더 좋아하다
+preference/선호, 애호
+advantage/이점, 강점
+advantageous/유리한
+disadvantage/불이익
+take advantage of/~을 이용하다
+benefit/혜택
+forward(부사)/앞으로
+forward(동사)/(물건, 정보를) 보내다
+a huge step forward/한 단계의 큰 진전
+look forward to ~ing/~을 고대하다
+contemporary/동시대의, 현대의, 당대의
+discussion/토론, 토의
+discuss/상의하다, 토론하다
+initial/처음의, 최초의
+initiate/개시하다, 처음 접하게 되다
+initially/처음에
+steadily/착실하게, 꾸준하게
+steady/꾸준한, 변함없는
+necessarily/반드시
+necessary/필요한
+necessitate/~을 필요로 하다
+necessity/필요성, 필수품
+not necessarily + 동사/반드시 ~ 하는것은 아니다
+resolve/(문제 등을) 해결하다
+resolution/해결, 결의안
+detect/간파하다, 탐지하다
+intensify/강화하다, 증대하다, 강렬하게 만들다
+intense/극심한, 강렬한
+intensive/집중적인
+favorably/호의적으로, 순조롭게
+favor/친절, 호의
+favorable/호의적인
+favored/호감을 사고 있는
+cover/포함하다, 지불하다, 덮다, 다루다
+coverage/범위, 보도
+report on/보도하다, 다루다
+pay/지불하다
+less/보다 적은, 덜한
+lesser/보다 중요치 않은
+majority/대부분, 대다수
+major(형용사)/대다수의, 주요한
+major(명사)/전공과목, (육군) 소령
+a(the) majority of/~의 대다수는
+most of the~/~의 대다수는
+adopt/채택하다
+adoption/채택
+largely/주로, 대부분
+disregard(명사)/무시, 묵살
+disregard(동사)/소홀히 하다, 무시하다
+effort/노력
+endeavor/노력, 시도
+in an effort to do/~해보려는 노력으로
+make an effort/노력하다
+incentive/혜택, 장려금
+financial incentives/금전적 혜택
+extra incentives/추가 장려금
+budget/예산
+earning/소득, 수입
+need(명사)/필요, 요구, 욕구
+need(동사)/~할 필요가 있다
+needy/매우 가난한
+mastermind/(계획 등의) 입안자, 지도자
+
 -토익 기초 단어
+celebration/축하
+curious/호기심 많은, 궁금해하는
+drop by/잠깐 들르다
+first step/첫 단계
+for now/우선은, 당분간은
+gather/모으다
+get together/한데 모이다, 조직하다
+hole/구멍, 틈
+in total/모두 합해, 총
+in use/사용되는
+practical/실용적인
+shovel(명사)/삽
+shovel(동사)/(눈을) 치우다, 삽질하다
+show(명사)/전시회
+show(동사)/보여주다, 나타내다
+space(명사)/공간, 장소
+space(동사)/~의 공간을 정하다
+advertise/광고하다
+belief/신념, 믿음
+belong to/~에 속하다, ~의 소유물이다
+be open for business/영업 중이다
+best-selling author/베스트셀러 작가
+consumer/소비자
+entry fee/참가 비용
+experiment/실험
+findings/조사 결과
+full/가득 찬, 완전한
+obviously/명백하게
+primarily/주로, 원래
+sales target/판매 대상, 판매 목표
+
 -800점 완성 단어
 
 #day9
