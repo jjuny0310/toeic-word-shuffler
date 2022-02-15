@@ -1134,7 +1134,7 @@ passively/수동적으로
 aim(명사)/목표, 목적
 aim(동사)/~을 겨누다
 aim to do/~할 작정이다
-제품 + aimed at/~을 겨낭한 제품
+제품 + aimed at ~/~을 겨낭한 제품
 strategy/전략
 strategic/전략적인
 strategically/전략적으로
@@ -1267,7 +1267,145 @@ sales target/판매 대상, 판매 목표
 -800점 완성 단어
 
 #day9
+stagnant/침체된, 불경기의
+stagnate/침체시키다
+sluggish/불경기의
+dramatically/극적으로
+dramatic/극적인
+substantially/상당히, 충분히
+brisk/활발한, 호황의, (날씨가) 상쾌한, 빠른
+strong/활발한, 호황의
+lively/활발한, 호황의
+fresh/(날씨가) 상쾌한
+unstable/불안정한, 변하기 쉬운
+stable/안정된
+rapidly/신속히, 빠른
+rapid/신속한
+rapidity/급속, 신속
+soar/(물가 등이) 폭등하다, 높이 치솟다
+plummet/폭락하다
+assert/단언하다, 주장하다
+boost(명사)/후원, (가격의) 인상
+boost(동사)/(경기를) 부양시키다, 상승시키다
+analyst/분석가
+analyze/분석하다
+analysis/분석
+potential(형용사)/잠재적인
+potential(명사)/가능성
+pleased/만족해하는, 기쁜
+be pleased to do/~하게 되어 기쁘다
+remain/계속 ~한 상태이다, 아직 ~해야 하다, 남아있다
+remainder/나머지
+remaining/남아있는
+limited/제한된, 한정된
+limited offer/한정 판매, 한정 제공
+for a limited time/한시적으로
+costly/비용이 많이 드는, 손실이 큰
+particular(형용사)/특정한
+particular(명사)/자세한 내용, 제목
+in particular/특히
+drastic/과감한, 급격한
+evenly/고르게, 균등하게
+even/평평한, 고른
+evidence/증거
+evident/분명한
+evidently/분명히
+prospect/전망, 예상
+prospective/장래의, 미래의
+lead/이끌다, 지휘하다, (어떤 결과에) 이르다
+leading/선도하는
+lead to/(어떤 결과로) 이어지다
+fall(명사)/하락, 낙하
+fall(동사)/(값, 가치가) 하락하다
+decrease/감소하다
+period/기간, 시기
+indicator/지표, 지수
+indicate/나타내다
+indication/징후, 조짐
+industry/산업
+industrial/산업의
+industrious/근면한
+likely/~할 것 같은
+likelihood/가망, 가능성
+unlikely/~할 것 같지 않은
+be likely to do/~할 것 같다
+possible/할 수 있는, 가능한
+boom/붐, 호황
+director/임원, 책임자
+direction/지침, 설명
+direct(형용사)/직접적인, 직행의
+direct(동사)/안내하다, 지도하다
+substitute(명사)/대용품
+substitute(동사)/대신하다
+substitute A with B(B for A)/A를 B로 대체하다
+be substituted for A/A를 대신하다
+be substituted with B/B로 대신하다
+consequence/결과
+consequential/결과로서 일어나는
+fairly(부사)/상당히, 꽤
+fairly(형용사)/공정하게, 정직하게
+fair/상당한, 꽤 많은
+quite/상당히, 꽤
+reasonably/상당히, 꽤
+equally/공정하게, 정직하게
+impartially/공정하게, 정직하게
+economical/경제적인, 절약되는
+economic/경제의
+economy/경제, 절약
+economics/경제학(단수취급)
+economist/경제학자
+extravagant/낭비하는
+thrive/번영하다, 성공하다
+flourish/번영하다, 번창하다
+implication/영향, 밀접한 관계
+implicate/연루시키다, (의미를) 포함하다
+wane(명사)/감소, 쇠퇴
+wane(동사)/감소하다
+prosperity/번영
+prosper/번영하다, 번창하다
+prosperous/번영하는
+in times of prosperity/번영기에
+depression/불황
+slump/불황
+recession/불황
+dwindle/줄어들다, 감소되다
+diminish/감소되다
+impede/저해하다, 방해하다
+impediment/방해, 방해물
+facilitate/촉진하다
+promising/유망한, 전망이 좋은
+adversity/역경, 불운
+adverse/불리한, 불운의
+
 -토익 기초 단어
+business hours/영업 시간
+cast/던지다, 드리우다
+CEO(chief executive officer)/최고 경영자
+enterprise/기업, 사업
+firm/회사
+franchise/가맹 사업, 독점 판매권
+nice-looking/깔끔한
+plenty/풍부한, 충분한
+session/(특정 활동) 시간
+speed up/가속화 하다
+trading/거래
+beginning/시작, 초기의
+contribution to/~에 대한 기여
+convenient/편리한, 간편한
+differently/다르게, 별도로
+formally/정식으로, 공식적으로
+industrial/산업의
+lightly/가볍게, 부드럽게
+not A but B/A가 아니라 B다
+optimistic/낙관적인
+overall/전반적인, 총체적인
+possibility/가능성
+private/개인적인
+rise/오르다, 일어서다
+situation/상황
+strengthen/강화하다, 강력해지다
+up-and-down/오르내리는, 기복이 있는
+
 -800점 완성 단어
 
 #day10
