@@ -1409,7 +1409,181 @@ up-and-down/오르내리는, 기복이 있는
 -800점 완성 단어
 
 #day10
+purchase(명사)/구매
+purchase(동사)/구매하다
+within ~ days of purchase/구입일로부터 ~일 이내에
+price(명사)/가격
+price(동사)/~에 값을 매기다
+a reduced price/할인가
+a retail price/소매가
+a wholesale price/도매가
+affordable/(가격이) 알맞은, 감당할 수 있는
+at an affordable + rate(price)/적당한 가격에
+afford/~할 여유가 있다
+affordability/감당할 수 있는 비용
+affordably/알맞게, 감당할 수 있게
+reasonable/(가격이) 비싸지 않은, 적당한
+expensive/값비싼
+exactly/정확하게
+exact/정확한
+precisely/정확하게, 엄밀하게
+installment/할부
+notice(명사)/통지, 공고
+notice(동사)/주의하다, 알아채다
+notify/통지하다, 통보하다
+notification/통지, 통지서
+noticeable/눈에 띄는
+until further notice/추후 통지가 있을 때까지
+give two weeks' notice/2주 전에 통보하다
+charge(명사)/요금, 청구 금액, 책임, 의무
+charge(동사)/~을 청구하다, (외상으로) 달아놓다
+expense/비용, 경비
+free of charge/무료로
+in charge of/~을 맡고 있는, 담당의
+additional charge/추가 요금
+charge A to B/A를 B 앞으로 달아 놓다
+experienced/경험이 있는, 노련한, 능숙한
+instruction/설명, 지시
+instructional/교육용의
+expert(명사)/전문가
+expert(형용사)/전문가의, 전문적인
+expertly/훌륭하게, 전문적으로
+warranty/(품질 등의) 보증, 보증서
+under warranty/(상품이) 보증 기간 중인
+refund(명사)/환불, 환불금
+refund(동사)/환불하다
+a full refund/전액 환불
+provide a refund/환불해 주다
+refundable/환불 가능한
+subscriber/가입자, 구독자
+subscription/(정기) 구독
+delivery/배달
+deliver/배달하다
+receipt/영수증
+receive/받다, 수여하다
+original(valid) receipt/원본(유효한) 영수증
+upon receipt of/~을 수령(접수)하는 즉시
+carefully/주의 깊게, 신중히
+care(명사)/주의, 걱정
+care(동사)/걱정하다
+careful/주의 깊은
+carelessly/부주의하게
+offer(명사)/제공, 오퍼
+offer(동사)/제공하다
+promotional offers/판촉 상품
+job offer/일자리 제의
+offer A B/A에게 B를 제공하다
+offer B to A/B를 A에게 제공하다
+provide/제공하다
+benefit(명사)/혜택, 이익
+benefit(동사)/혜택을 보다, 이익을 얻다
+beneficial/유익한, 이로운
+beneficiary/수익자, 수혜자
+disadvantage/불이익
+exclusively/오로지, 독점적으로
+exclusive/독점적인
+exclude/배제하다
+solely/단독으로, 오로지
+available exclusively online/온라인으로만 이용 가능한
+sell exclusively/독점으로 판매하다
+exclusively supply/독점으로 제공하다
+description/(제품 등의) 설명, 해설
+describe/설명하다
+account/설명, 이야기
+job description/직무 내용
+specification/(자세한) 설명서, 사양
+relatively/상대적으로
+relative/상대적인
+relate/관련시키다, 결부시키다, (말, 글로) 들려주다
+preparation/준비, 대비
+spare(형용사)/예비의, 여분의
+spare(동사)/아끼다, 할애하다
+area/지역, 구역
+site/(건축용) 부지, 대지
+clearance/정리, 없애기, 허가
+clearance sale/재고 정리 할인 판매
+authorization/허가, 권한 부여
+alter/(성질, 형상을) 고치다, 바꾸다
+alteration/변경, 개조
+change/바꾸다
+modify/바꾸다
+apply/적용하다, 지원하다
+application/적용, 신청
+applicant/지원자
+applicable/적용할 수 있는, 해당하는
+put into effect/실행하다
+put to use/사용하다
+mutually/서로, 상호 간에
+method/방식, 방법
+approach/처리 방법, 접근법
+a method of payment/지불 방식
+credit card/신용 카드
+debit card/직불카드
+cash/현금
+check/수표
+money order/우편환
+acceptable/용인되는, 받아들일 수 있는, 훌륭한, 만족스러운
+find/(제안, 결정 등이) 괜찮은, 만족할 만한
+desire(명사)/욕구, 갈망
+desire(동사)/원하다, 바라다
+desirable/바람직한, 호감 가는
+undesirable/원하지 않는, 바람직하지 않은
+redeemable/(현금, 상품과) 교환할 수 있는, 환급할 수 있는
+redeem/되찾다, (상품권을) 상품으로 바꾸다
+officially/공식적으로
+officially open/공식적으로 개점하다
+consumption/소비(량), 소모
+qualify/~의 자격을 얻다
+qualification/자격, 면허
+qualified/자격 있는, 적격의
+qualify for A/A의 자격을 얻다
+fabric/섬유, 천
+auction/경매
+authentic/진정한, 진짜의, 진품의
+genuine/진짜의, 진품의
+fake/가짜의
+valid/유효한
+effective/유효한, 효력이 있는
+good/유효한
+invalid/무효한
+be valid for + 기간/~동안 유효하다
+valid receipts/유효한 영수증
+vendor/노점상, 가판대, 판매업체
+
 -토익 기초 단어
+bakery/빵집, 제과점
+best-selling/베스트셀러의
+cashier/(은행, 상점, 호텔 등의) 출납원
+clothing/의류
+corner/모퉁이, 구석
+costume/복장, 의상
+free/자유로이 ~할 수 있는, 마음대로의
+label(명사)/라벨, 꼬리표
+label(동사)/~에 라벨을 붙이다
+necklace/목걸이
+photography equipment/사진 장비
+shelf/선반
+shop(명사)/상점
+shop(동사)/물건을 사다
+shopper/쇼핑객
+size/크기, 치수
+sunglasses/선글라스
+supermarket/슈퍼마켓
+unwanted/원치 않는, 반갑지 않은
+basis/기초, 근거, 원칙
+brand/상표, 브랜드
+department store/백화점
+discount store/할인 점포
+display(명사)/전시, 진열
+display(동사)/전시하다, 진열하다
+fit/(치수가) ~에 꼭 맞다, ~에 적합하다
+fully/완전히, 충분히
+grocery/식료품점
+keep/보유하다, 계속하다
+store(명사)/가게
+store(동사)/저장하다
+tax/세금
+
 -800점 완성 단어
 
 
