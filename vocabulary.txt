@@ -3,7 +3,6 @@ resume/이력서
 opening/공석, 결원, 개장, 개시
 vacancy/공석, 결원
 an opening/공석
-applicant/지원자, 신청자
 apply/지원하다, 적용하다
 application/신청, 신청서, 적용
 appliance/전기 제품
@@ -18,7 +17,6 @@ meet requirements/필요조건을 만족시키다
 meet customer demand/소비자의 요구를 만족시키다
 meet expectations/기대를 충족시키다
 qualified/자격 있는, 적격의
-qualify/~에게 자격을 주다, 적임으로 하다
 qualification/자격
 qualifier/예선 통과자, 예선전
 certified/보증된, 증명된, 공인된
@@ -76,7 +74,6 @@ proficient/숙달한, 능숙한
 prospective/장래의, 미래의
 prospect/전망, 예상
 appeal/관심을 끌다, 매력적이다
-attract/관심을 끌다
 appeal to/~의 관심을 끌다, ~에게 호소하다
 specialize/~을 전공하다, 전문적으로 다루다
 apprehensive/걱정하는, 염려하는
@@ -109,7 +106,6 @@ salary/봉급
 application form/신청서
 career/직업, 경력
 completion/완료, 완성
-fair/공정한, 타당한
 graduation/졸업
 in fact/사실은
 job fair/취업 박람회
@@ -214,7 +210,6 @@ mandate(동사)/명령하다, 지시하다
 mandate(명사)/권한, 지시, 명령
 effect(명사)/(법률 등의)효력, 효과, 영향
 effect(동사)/결과로서 ~을 가져오다
-effective/효과적인
 effectively/효과적으로
 in effect/(법률 등이)효력 있는, 실시된
 come into effect/실시되다, 발효되다
@@ -238,7 +233,6 @@ ban/금지, 금지하다
 obligation/의무, 책임
 authorize/~을 인가하다, 권한을 부여하다
 authorized/공인된
-authorization/허가
 authority/권한, 당국
 an authorized service center/공인된 서비스 센터
 unauthorized reproduction/불법 복제
@@ -299,8 +293,6 @@ witness/목격자, 증인
 accustomed/익숙한
 corporation/주식회사, 법인
 corporate/회사의, 법인의
-demanding/요구가 많은, 힘든
-demand/요구하다
 colleague/(직업상의) 동료
 associate/동료
 coworker/동료
@@ -329,16 +321,12 @@ submit/제출하다
 submission/제출, 제출물
 turn in/제출하다
 hand in/제출하다
-directly/곧바로
-direct/지도하다, 직접적인
-direction/방향
 remind/~에게 상기시키다, 일깨우다
 reminder/상기시켜 주는 것, 메모
 remind 사람 + of 내용(or, that절)/~에게 ~을 상기시키다
 remind 사람 to do/~에게 ~하라고 일러주다
 be reminded to do/~할 것을 잊지 않도록 주의 받다
 instruct/지시하다, 가르치다
-instruction/지시
 instructor/강사
 deadline/마감일, 마감 시간
 sample(명사)/견본, 샘플, 표본
@@ -384,7 +372,6 @@ supervise/감독하다
 supervisor/감독관
 workshop/워크숍, 연수
 draw/끌다, 끌어당기다
-attract/(주의, 흥미 등을) 끌다, (어디로) 끌어들이다
 revision/수정, 개정
 revise/개정하다
 revised/개정된
@@ -401,7 +388,6 @@ convey A to B/A를 B에게 전달하다
 check(명사)/검사
 check(동사)/검사하다, 조사하다, 확인하다
 inspect/검사하다
-examine/검사하다
 check A for B/B의 유무를 확인하기 위해 A를 검사하다
 check for A/A를 확인하다
 headquarters/본부
@@ -519,9 +505,6 @@ agree to 부정사/~하는 데 동의하다
 agree with + 사람/(사람)에 동의하다
 supervise/감독하다, 지도하다
 coworker/동료, 협력자
-direct/~에게 길을 안내하다, 가르쳐 주다
-direction/방향, 지시, 지도
-director/지도자, 감독
 directly/곧바로
 direct A to B/A를 B로 안내하다
 confidential/기밀의, 내밀한
@@ -697,10 +680,7 @@ expertise/전문 지식, 전문 기술
 expert/전문가
 have expertise in A/A에 전문성이 있다
 area of expertise/전문 분야
-demonstrate/증명하다, (모형, 실험으로) 설명하다
-demonstration/증명
 prove/증명하다
-display/전시하다, 진열하다
 remainder/나머지
 remain/남다, 여전히 ~ 이다
 remaining/남은, 남아있는
@@ -828,8 +808,8 @@ be required to do/~하는 데 필수적이다
 succeed/성공하다, 뒤를 잇다
 success/성공
 successful/성공적인
-successive/연속의, 상속의
-successively/연속하여, 잇따라서
+successive/연속적인, 상속의
+successively/연속적으로
 collection/소장품, 수집물, 징수, 수금
 collect/모으다
 collector/수집가
@@ -842,8 +822,6 @@ resume/재개하다, 다시 시작하다
 issue/(출판물의) 제 ~호, 문제, 쟁점
 common issue/공통적인 문제
 address an issue/쟁점을 거론하다, 문제를 제기하다
-subscription/(정기 발행물의) 구독
-subscribe/구독하다
 appear/나타나다, 출현하다
 appearance/출현
 disappear/사라지다
@@ -866,27 +844,25 @@ audience/청중, 관중
 author/작가, 저자
 note(명사)/메모
 note(동사)/주목하다, 특별히 언급하다
-notable/뛰어난, 중요한
+notable/뛰어난, 주목할 만한
 state/(정식으로) 말하다, 쓰다, 언급하다
 antique/골동품
 manuscript/원고
 beneficial/유익한, 이로운
-benefit/이익
 harmful/해로운
 be beneficial for 사람/~에게 이익이 되다
 be beneficial to/~에 이익이 되다
 upcoming/다가오는, 곧 있을
 upcoming school year/다가오는 학년
-upcoming event/곧 있을 행사
-upcoming mayoral election/곧 있을 시장 선거
+upcoming event/다가오는 행사
+upcoming mayoral election/다가오는 시장 선거
 forthcoming/다가오는, 곧 있을
 lend/빌려주다
 borrow/빌리다
 rent/~을 임대하다, 임차하다
 current/현재의, 현행의, 통용되는
 currently/현재
-contemporary/현대의
-valid/유효한
+contemporary/동시대의, 현대의, 당대의
 local/지방의, 고장의
 locality/장소, 소재
 locally/국지적으로
@@ -895,7 +871,7 @@ variety/다양성, 변화, 종류, 품종
 various/다양한
 vary/다르다, 바뀌다
 range/다양성
-a variety of + 복수명사/다양한~
+a variety of + 복수명사/다양한 ~
 advocate(명사)/옹호자
 advocate(동사)/옹호하다
 opponent/반대자
@@ -939,7 +915,7 @@ care for/~을 돌보다, ~를 좋아하다
 concert/콘서트
 length/길이
 leisure/여가
-librarian/사서, 도서관원
+librarian/사서
 menu/메뉴, 음식, 요리
 sightseeing/관광
 
@@ -949,8 +925,6 @@ sightseeing/관광
 survey(명사)/설문 조사
 survey(동사)/(설문) 조사하다
 analysis/분석
-analyze/분석하다
-analyst/분석가
 reliable analysis/신뢰할 만한 분석
 market analysis/시장 분석
 respondent/응답자
@@ -967,7 +941,7 @@ rival/경쟁자
 compete for/~를 두고 경쟁하다
 consistently/항상, 일관되게
 consistent/일관된
-demand(명사)/수요
+demand(명사)/수요, 요구
 demand(동사)/요구하다
 demanding/요구가 지나친
 supply/공급
@@ -989,10 +963,10 @@ appreciate/고맙게 생각하다, 높이 평가하다, 감상하다
 appreciation/감사, 감상
 appreciative/고마워하는, 감탄하는
 value/가치 있게 생각하다
-demonstration/설명, 드러냄, 시연
-demonstrate/입증하다, 보여주다
+demonstration/증명, 설명, 시연
+demonstrate/증명하다, 설명하다, 보여주다
 buy/사다, 구입하다
-examine/조사하다
+examine/조사하다, 검사하다
 examination/조사, 시험
 investigate/조사하다
 check out/살펴보다
@@ -1021,7 +995,6 @@ very/매우, 대단히, 아주
 far/훨씬, 무척
 consecutive/연속적인
 consecutively/연속적으로
-successive/연속적인
 for the third consecutive year/3년 연속으로
 for three consecutive years/3년 연속으로
 expectation/예상, 기대
@@ -1034,17 +1007,14 @@ raise(명사)/임금 인상
 raise(동사)/높이다, 올리다, (의문을) 제기하다
 voice/(감정, 의견 등을) 말로 나타내다
 lift/들어 올리다
-rise/(자동사) 오르다
 extremely/극도로, 대단히
 extreme(명사)/극단
 extreme(형용사)/극도의, 과격한
-exclusively/독점적으로
 affect/~에 영향을 미치다, 불리하게 작용하다
-influence/영향, 영향을 미치다
 target(명사)/목표
 target(동사)/목표로 삼다
 campaign/운동, 캠페인
-probable/개연성이 높은, 유망한
+probable/가능성이 있는, 유망한
 probably/아마도
 convincing/설득력 있는
 focus(명사)/초점
@@ -1052,7 +1022,7 @@ focus(동사)/집중하다, 집중시키다
 focus A on B/A를 B에 집중시키다
 be focused on/~에 중점을 두다
 seasonal/계절의, 계절적인
-seasonally/계절따라, 정기적으로
+seasonally/계절적으로, 정기적으로
 seasonal variations/계절에 따른 차이
 seasonal demands/계절에 따른 수요
 seasonal changes/계절에 따른 변화
@@ -1067,7 +1037,6 @@ in comparison with/~와 비교해 볼 때
 gap/격차
 gab between A and B/A와 B간의 격차
 generation gap/세대 차이
-hole/구멍
 mounting/증가하는, 오르는
 mount/증가하다, 늘다
 mounting pressure/증가하는 압력
@@ -1123,7 +1092,7 @@ instantly/즉각적으로, 즉시
 instance/사례, 경우
 instant/즉각적인
 urgently/긴급히
-hastily/성급히, 급히
+hastily/황급히
 creative/독창적인, 창조적인
 create/창조하다
 creativity/독창성, 창조성
@@ -1138,17 +1107,13 @@ aim to do/~할 작정이다
 strategy/전략
 strategic/전략적인
 strategically/전략적으로
-indicate/보여주다, 나타내다
 indicative/나타내는
-indication/암시, 조짐
-indicator/지표
-attract/끌다, 유인하다
+attract/관심을 끌다
 attractive/매력적인
 attraction/매력
 experience(명사)/경험, 체험
 experience(동사)/경험하다, 체험하다
-analyze/분석하다, 분석적으로 검토하다
-analysis/분석 연구, 분석
+analyze/분석하다
 analyst/분석가
 introduce/(신제품을) 발표하다, 소개하다
 introduction/소개, 도입
@@ -1161,25 +1126,22 @@ advise A to do/A에게 ~하라고 조언하다
 advise A on B/A에게 B에 관해 조언하다
 subscribe/구독하다
 subscription/구독, 구독료
-subscriber/구독자
+subscriber/가입자, 구독자
 absence/부재, 결근, 결석
 during(in) one's absence/~의 부재 중에
 means/방법, 수단
-by means of/~에 의하여, ~으로
+by means of/~에 의하여
 means of/~에 대한 수단(방법)
 instrument for/~을 위한 도구
 prefer/선호하다, (다른 것보다) ~을 더 좋아하다
 preference/선호, 애호
 advantage/이점, 강점
 advantageous/유리한
-disadvantage/불이익
 take advantage of/~을 이용하다
-benefit/혜택
 forward(부사)/앞으로
-forward(동사)/(물건, 정보를) 보내다
+forward(동사)/전달하다
 a huge step forward/한 단계의 큰 진전
 look forward to ~ing/~을 고대하다
-contemporary/동시대의, 현대의, 당대의
 discussion/토론, 토의
 discuss/상의하다, 토론하다
 initial/처음의, 최초의
@@ -1207,12 +1169,12 @@ coverage/범위, 보도
 report on/보도하다, 다루다
 pay/지불하다
 less/보다 적은, 덜한
-lesser/보다 중요치 않은
+lesser/덜 중요한
 majority/대부분, 대다수
 major(형용사)/대다수의, 주요한
 major(명사)/전공과목, (육군) 소령
 a(the) majority of/~의 대다수는
-most of the~/~의 대다수는
+most of the ~/~의 대다수는
 adopt/채택하다
 adoption/채택
 largely/주로, 대부분
@@ -1228,7 +1190,8 @@ extra incentives/추가 장려금
 budget/예산
 earning/소득, 수입
 need(명사)/필요, 요구, 욕구
-need(동사)/~할 필요가 있다
+need(조동사) to/~할 필요가 있다
+need(동사)/필요하다
 needy/매우 가난한
 mastermind/(계획 등의) 입안자, 지도자
 
@@ -1287,14 +1250,12 @@ plummet/폭락하다
 assert/단언하다, 주장하다
 boost(명사)/후원, (가격의) 인상
 boost(동사)/(경기를) 부양시키다, 상승시키다
-analyst/분석가
-analyze/분석하다
 analysis/분석
 potential(형용사)/잠재적인
 potential(명사)/가능성
 pleased/만족해하는, 기쁜
 be pleased to do/~하게 되어 기쁘다
-remain/계속 ~한 상태이다, 아직 ~해야 하다, 남아있다
+remain/계속 ~한 상태이다, 아직 ~해야 한다, 남아있다
 remainder/나머지
 remaining/남아있는
 limited/제한된, 한정된
@@ -1302,11 +1263,11 @@ limited offer/한정 판매, 한정 제공
 for a limited time/한시적으로
 costly/비용이 많이 드는, 손실이 큰
 particular(형용사)/특정한
-particular(명사)/자세한 내용, 제목
+particular(명사)/자세한 내용, 세목
 in particular/특히
 drastic/과감한, 급격한
 evenly/고르게, 균등하게
-even/평평한, 고른
+even/고른, 평평한
 evidence/증거
 evident/분명한
 evidently/분명히
@@ -1320,8 +1281,8 @@ fall(동사)/(값, 가치가) 하락하다
 decrease/감소하다
 period/기간, 시기
 indicator/지표, 지수
-indicate/나타내다
-indication/징후, 조짐
+indicate/나타내다, 보여주다
+indication/징후, 조짐, 암시
 industry/산업
 industrial/산업의
 industrious/근면한
@@ -1331,8 +1292,8 @@ unlikely/~할 것 같지 않은
 be likely to do/~할 것 같다
 possible/할 수 있는, 가능한
 boom/붐, 호황
-director/임원, 책임자
-direction/지침, 설명
+director/임원, 책임자, 지도자, 감독
+direction/방향, 지시, 지도, 지침, 설명
 direct(형용사)/직접적인, 직행의
 direct(동사)/안내하다, 지도하다
 substitute(명사)/대용품
@@ -1342,11 +1303,10 @@ be substituted for A/A를 대신하다
 be substituted with B/B로 대신하다
 consequence/결과
 consequential/결과로서 일어나는
-fairly(부사)/상당히, 꽤
-fairly(형용사)/공정하게, 정직하게
-fair/상당한, 꽤 많은
+fairly(부사)/상당히, 꽤, 공정하게, 정직하게
+fair(형용사)/상당한, 꽤 많은, 공정한, 타당한
 quite/상당히, 꽤
-reasonably/상당히, 꽤
+reasonably/합리적으로
 equally/공정하게, 정직하게
 impartially/공정하게, 정직하게
 economical/경제적인, 절약되는
@@ -1394,14 +1354,13 @@ contribution to/~에 대한 기여
 convenient/편리한, 간편한
 differently/다르게, 별도로
 formally/정식으로, 공식적으로
-industrial/산업의
 lightly/가볍게, 부드럽게
 not A but B/A가 아니라 B다
 optimistic/낙관적인
 overall/전반적인, 총체적인
 possibility/가능성
 private/개인적인
-rise/오르다, 일어서다
+rise/(자동사) 오르다, 일어서다
 situation/상황
 strengthen/강화하다, 강력해지다
 up-and-down/오르내리는, 기복이 있는
@@ -1422,7 +1381,7 @@ at an affordable + rate(price)/적당한 가격에
 afford/~할 여유가 있다
 affordability/감당할 수 있는 비용
 affordably/알맞게, 감당할 수 있게
-reasonable/(가격이) 비싸지 않은, 적당한
+reasonable/합리적인, (가격이) 비싸지 않은, 적당한
 expensive/값비싼
 exactly/정확하게
 exact/정확한
@@ -1439,7 +1398,7 @@ charge(명사)/요금, 청구 금액, 책임, 의무
 charge(동사)/~을 청구하다, (외상으로) 달아놓다
 expense/비용, 경비
 free of charge/무료로
-in charge of/~을 맡고 있는, 담당의
+in charge of/~을 맡고 있는, 담당하는
 additional charge/추가 요금
 charge A to B/A를 B 앞으로 달아 놓다
 experienced/경험이 있는, 노련한, 능숙한
@@ -1455,8 +1414,6 @@ refund(동사)/환불하다
 a full refund/전액 환불
 provide a refund/환불해 주다
 refundable/환불 가능한
-subscriber/가입자, 구독자
-subscription/(정기) 구독
 delivery/배달
 deliver/배달하다
 receipt/영수증
@@ -1471,13 +1428,11 @@ carelessly/부주의하게
 offer(명사)/제공, 오퍼
 offer(동사)/제공하다
 promotional offers/판촉 상품
-job offer/일자리 제의
 offer A B/A에게 B를 제공하다
 offer B to A/B를 A에게 제공하다
 provide/제공하다
 benefit(명사)/혜택, 이익
 benefit(동사)/혜택을 보다, 이익을 얻다
-beneficial/유익한, 이로운
 beneficiary/수익자, 수혜자
 disadvantage/불이익
 exclusively/오로지, 독점적으로
@@ -1494,7 +1449,7 @@ job description/직무 내용
 specification/(자세한) 설명서, 사양
 relatively/상대적으로
 relative/상대적인
-relate/관련시키다, 결부시키다, (말, 글로) 들려주다
+relate/관련시키다, 결부시키다, 말하다
 preparation/준비, 대비
 spare(형용사)/예비의, 여분의
 spare(동사)/아끼다, 할애하다
@@ -1508,8 +1463,7 @@ alteration/변경, 개조
 change/바꾸다
 modify/바꾸다
 apply/적용하다, 지원하다
-application/적용, 신청
-applicant/지원자
+applicant/지원자, 신청자
 applicable/적용할 수 있는, 해당하는
 put into effect/실행하다
 put to use/사용하다
@@ -1523,7 +1477,7 @@ cash/현금
 check/수표
 money order/우편환
 acceptable/용인되는, 받아들일 수 있는, 훌륭한, 만족스러운
-find/(제안, 결정 등이) 괜찮은, 만족할 만한
+fine/(제안, 결정 등이) 괜찮은, 만족할 만한
 desire(명사)/욕구, 갈망
 desire(동사)/원하다, 바라다
 desirable/바람직한, 호감 가는
@@ -1533,17 +1487,15 @@ redeem/되찾다, (상품권을) 상품으로 바꾸다
 officially/공식적으로
 officially open/공식적으로 개점하다
 consumption/소비(량), 소모
-qualify/~의 자격을 얻다
+qualify/~의 자격을 얻다, 자격을 주다
 qualification/자격, 면허
-qualified/자격 있는, 적격의
 qualify for A/A의 자격을 얻다
 fabric/섬유, 천
 auction/경매
 authentic/진정한, 진짜의, 진품의
 genuine/진짜의, 진품의
 fake/가짜의
-valid/유효한
-effective/유효한, 효력이 있는
+effective/유효한, 효과적인, (법률 등이) 발효되는, 시행되는
 good/유효한
 invalid/무효한
 be valid for + 기간/~동안 유효하다
@@ -1563,7 +1515,7 @@ label(동사)/~에 라벨을 붙이다
 necklace/목걸이
 photography equipment/사진 장비
 shelf/선반
-shop(명사)/상점
+shop(명사)/가게
 shop(동사)/물건을 사다
 shopper/쇼핑객
 size/크기, 치수
