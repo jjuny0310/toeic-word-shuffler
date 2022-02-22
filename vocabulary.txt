@@ -1538,4 +1538,196 @@ tax/세금
 
 -800점 완성 단어
 
+#day11
+research(명사)/연구, 조사
+research(동사)/연구하다, 조사하다
+research on/~에 대한 연구
+researcher/연구자
+study/연구
+devise/고안하다, 발명하다
+device/장치
+contrive/고안하다
+invent/발명하다
+revolutionary/혁명적인
+revolution/혁명
+innovative/혁신적인
+innovate/혁신하다
+innovation/혁신
+feature(명사)/특징, 특색
+feature(동사)/특징으로 삼다, 특별히 포함하다
+characteristic/특징
+inspiration/영감
+inspire/영감을 주다
+inspirational/영감을 주는
+sufficiently/충분히
+sufficient/충분한
+sufficiency/충분
+deficiently/불충분하게, 불완전하게
+patent(명사)/특허, 특허권, 특허품
+patent(동사)/~의 특허를 얻다
+envision/(장래의 일 등을) 계획하다, 상상하다
+extend/연장하다, (기간을) 늘리다, (감사의 뜻을) 말하다, 베풀다
+extent/범위, 한도
+scope/범위, 한도
+extension/연장, 확대
+extensive/광범위한, 폭넓은
+lengthen/늘리다
+offer/(감사의 뜻을) 말하다
+following(전치사)/~ 후에
+following(형용사)/다음의, 다음에 오는
+intend/~할 작정이다, 의도하다
+grant(명사)/(연구비, 장학금 등의) 보조금
+grant(동사)/(인정하여 정식으로) 수여하다, 주다
+take ~ for granted/~을 당연하게 여기다
+allowance/보조금
+allow/~하게 하다, ~을 허락하다
+allowable/허락할 수 있는, 허용되는
+allowed/허가받은, 허용된
+allowance/허용치, 수당, 용돈
+inspect/~을 검사하다, 조사하다
+inspection/조사, 검사
+inspector/검사자, 검사관
+improve/향상시키다, 개선하다
+improvement/향상, 개선
+increasingly/점점, 더욱더
+increase/증가하다
+increasing/증가하는
+invest/투자하다, 운용하다
+various/다양한
+vary/다양하다, 다르다
+upgrade(명사)/업그레이드, 개량형
+upgrade(동사)/업그레이드 하다, 개선하다
+manual(명사)/설명서, 안내서
+manual(형용사)/수동의, 손으로 하는
+explore/조사하다, 탐구하다
+response/응답, 대답
+respond/대답하다, 반응하다
+appearance/외관, 외모
+outlook/외관
+successful/성공적인, 성공한
+succeed/성공하다
+success/성공
+successfully/성공적으로
+hold/~을 수용하다, ~을 담다, (회의 등을) 개최하다, 열다
+contain/담다
+conduct/(특정한 활동을) 하다, 개최하다
+advance/진보, 전진
+advancement/진보
+setback/퇴보, 실패
+in advance/미리
+in advance of/~ 이전에
+advance in/~의 진보, 발전
+reliable/믿을 만한, 신뢰할 수 있는
+rely/의지하다, 신뢰하다
+reliability/신뢰성
+reliant/의존하는, 의지하는
+trustworthy/신뢰할 수 있는
+dependable/신뢰할 수 있는
+quality(명사)/품질, 질
+quality(형용사)/고급의, 우수한
+domestic/국내의, 국산의
+development/개발, 발전
+develop/~을 발달시키다
+developer/개발자
+developed/선진의, 발달한
+developing/개발 도상의
+be under development/개발 중이다
+development in/~의 발전
+availability/(입수) 가능성, 유효성, 유용성
+available/이용할 수 있는
+update(명사)/갱신, 개정
+update(동사)/갱신하다, 최신의 것으로 하다
+updated/최신의
+accurate/정확한
+accuracy/정확성
+accurately/정확하게
+inaccurate/부정확한
+complicated/복잡한
+complicate/복잡하게 하다
+accomplished/숙련된, 노련한
+accomplish/성취하다, 완수하다
+accomplishment/성취, 업적
+inquiry/문의, 질문
+inquire/묻다, 알아보다
+indication/징후, 조짐
+indicate/나타내다
+indicative/나타내는
+show/표시, 표현
+manufacturer/제조 회사, 제조업자
+manufacture/제조, 제조하다
+compatible/호환되는, 양립할 수 있는
+compatibility/호환성
+be compatible with/~와 호환되다, ~와 양립할 수 있다
+superior/우수한, 상급의
+superiority/우월, 우위
+excellent/우수한
+inferior/열등한
+be superior to/~보다 우수하다
+incomparable/비할 데 없는
+absolute/완전한, 완전무결한
+absolutely/완전히
+complete/완전한
+utter/완전한
+to an absolute minimum/완전 최소로
+broaden/넓히다
+broad/폭이 넓은
+breadth/폭, 넓이
+widen/넓히다
+expand/넓히다
+multiply/증가시키다
+corrosion/부식
+corrode/부식하다
+erosion/침식
+remotely/원격으로, 멀리서
+remote/원격의, 외진, 외딴
 
+-토익 기초 단어
+brand new/최신의
+break down/고장 나다
+developer/개발자
+handmade/수공의
+in a row/한 줄로, 연이어
+late(형용사)/늦은
+late(부사)/늦게
+lid/뚜껑
+shape/(어떤) 모양으로 만들다, 형체
+sketch/스케치하다, 스케치
+switch off/스위치를 끄다
+turn off/끄다
+turn on/켜다
+be known for/~으로 알려져 있다
+be made of/~으로 만들어지다
+catalog/목록, 카탈로그
+chemist/화학자
+close down/폐쇄하다, 폐업하다
+control(명사)/관리, 통제
+control(동사)/관리하다, 통제하다
+design/설계하다, 디자인
+discovery/발견
+historic/역사적으로 중요한
+invention/발명, 발명품
+original/최초의, 독창적인, 원형
+pure/순수한, 불순물이 없는
+repeat/반복하다
+request form/요청 양식
+sensor/감지 장치
+technique/기술
+test/검사, 시험하다
+
+-800점 완성 단어
+
+#day12
+-토익 기초 단어
+-800점 완성 단어
+
+#day13
+-토익 기초 단어
+-800점 완성 단어
+
+#day14
+-토익 기초 단어
+-800점 완성 단어
+
+#day15
+-토익 기초 단어
+-800점 완성 단어
