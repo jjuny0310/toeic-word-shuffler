@@ -314,7 +314,6 @@ manage/~을 경영하다, 가까스로 하다
 management/경영, 경영진
 manageable/관리할 수 있는
 handle/처리하다, 다루다
-succeed/성공하다
 manage to do/가까스로 ~하다
 under the new management/새로운 경영진 하에
 submit/제출하다
@@ -555,7 +554,6 @@ respect for/~에 대한 존경
 with respect/존경하여
 duplicate/사본
 copy/사본
-original/원본
 in duplicate/두 통으로
 make duplicates of/~의 사본을 만들다
 contrary/반대
@@ -1579,11 +1577,10 @@ intend/~할 작정이다, 의도하다
 grant(명사)/(연구비, 장학금 등의) 보조금
 grant(동사)/(인정하여 정식으로) 수여하다, 주다
 take ~ for granted/~을 당연하게 여기다
-allowance/보조금
 allow/~하게 하다, ~을 허락하다
 allowable/허락할 수 있는, 허용되는
 allowed/허가받은, 허용된
-allowance/허용치, 수당, 용돈
+allowance/허용치, 수당, 용돈, 보조금
 inspect/~을 검사하다, 조사하다
 inspection/조사, 검사
 inspector/검사자, 검사관
@@ -1601,11 +1598,10 @@ manual(명사)/설명서, 안내서
 manual(형용사)/수동의, 손으로 하는
 explore/조사하다, 탐구하다
 response/응답, 대답
-respond/대답하다, 반응하다
+respond/응답하다, 대답하다 
 appearance/외관, 외모
 outlook/외관
 successful/성공적인, 성공한
-succeed/성공하다
 success/성공
 successfully/성공적으로
 hold/~을 수용하다, ~을 담다, (회의 등을) 개최하다, 열다
@@ -1652,9 +1648,10 @@ inquire/묻다, 알아보다
 indication/징후, 조짐
 indicate/나타내다
 indicative/나타내는
-show/표시, 표현
+show(명사)/표시, 표현
 manufacturer/제조 회사, 제조업자
-manufacture/제조, 제조하다
+manufacture(명사)/제조
+manufacture(동사)/제조하다
 compatible/호환되는, 양립할 수 있는
 compatibility/호환성
 be compatible with/~와 호환되다, ~와 양립할 수 있다
@@ -1690,8 +1687,10 @@ in a row/한 줄로, 연이어
 late(형용사)/늦은
 late(부사)/늦게
 lid/뚜껑
-shape/(어떤) 모양으로 만들다, 형체
-sketch/스케치하다, 스케치
+shape(명사)/형체
+shape(동사)/(어떤) 모양으로 만들다
+sketch(명사)/스케치
+sketch(동사)/스케치하다
 switch off/스위치를 끄다
 turn off/끄다
 turn on/켜다
@@ -1702,18 +1701,20 @@ chemist/화학자
 close down/폐쇄하다, 폐업하다
 control(명사)/관리, 통제
 control(동사)/관리하다, 통제하다
-design/설계하다, 디자인
+design(명사)/디자인
+design(동사)/설계하다
 discovery/발견
 historic/역사적으로 중요한
 invention/발명, 발명품
-original/최초의, 독창적인, 원형
+original(명사)/원본, 원형
+original(형용사)/최초의, 독창적인
 pure/순수한, 불순물이 없는
 repeat/반복하다
 request form/요청 양식
 sensor/감지 장치
 technique/기술
-test/검사, 시험하다
-
+test(명사)/검사
+test(동사)/시험하다
 -800점 완성 단어
 
 #day12
