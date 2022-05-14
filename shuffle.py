@@ -1,15 +1,16 @@
 from tkinter import *
 import tkinter.font as tkFont
 import tkinter.ttk as ttk
-from load import vocaLoad
+from load import *
 import random
+
 
 menu = Tk()
 
 fontStyle = tkFont.Font(family="Lucida Grande", size=14, weight="bold")
 word_fontStyle = tkFont.Font(family="Lucida Grande", size=13, weight="bold")
 
-DAY_NUM = 30
+DAY_NUM = load.DAY_NUM
 
 r1 = IntVar()
 r1.set(1)
@@ -20,7 +21,7 @@ r4 = IntVar()
 day_checkval = {}
 
 # 단어 불러오기
-all_day, basic, grade800 = vocaLoad()
+all_day, basic, grade800 = load.load()
 
 
 def backSpace():
@@ -88,7 +89,7 @@ def allCheckBoxOff():
         day_checkval[f"day{i+1}"].set(0)
 
 
-# 테이블 사이즈 변경 비활성화
+# 테이블 크기 변경 비활성화
 def tableResizeBlock(event):
     if treeview.identify_region(event.x, event.y) == "separator":
         return "break"

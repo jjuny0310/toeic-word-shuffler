@@ -1,7 +1,7 @@
 DAY_NUM = 30
 
-def vocaLoad():
-    f = open("vocabulary.txt", 'r', encoding='UTF8')
+def load():
+    f = open("load/vocabulary.txt", 'r', encoding='UTF8')
     lines = f.readlines()
 
     # 플래그 변수
@@ -20,6 +20,7 @@ def vocaLoad():
         basic[f"day{i+1}"] = []
         grade800[f"day{i+1}"] = []
 
+    # 텍스트 분리
     for i, line in enumerate(lines):
         if line.startswith("#day"):
             day_count += 1
@@ -59,6 +60,3 @@ def vocaLoad():
 
     return all_day, basic, grade800
 
-
-if __name__ == '__main__':
-    vocaLoad()
