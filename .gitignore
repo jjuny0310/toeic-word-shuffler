@@ -9,4 +9,4 @@ out
 gen
 
 # pycache file
-__pycache__/
+load/__pycache__
