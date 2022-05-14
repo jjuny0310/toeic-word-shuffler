@@ -1,5 +1,6 @@
 DAY_NUM = 30
 
+# 단어장 불러오기
 def load():
     f = open("load/vocabulary.txt", 'r', encoding='UTF8')
     lines = f.readlines()
@@ -44,7 +45,6 @@ def load():
             word_mean = lines[i].split("/")
             if len(word_mean) == 2:
                 all_day[f"day{day_count}"].append([(word_mean[0], ""), word_mean[1].replace("\n", "")])
-                # all_day_mean[f"day{day_count}"].append(word_mean[1].replace("\n", ""))
         elif basic_flag:
             word_mean = lines[i].split("/")
             if len(word_mean) == 2:
@@ -53,10 +53,6 @@ def load():
             word_mean = lines[i].split("/")
             if len(word_mean) == 2:
                 grade800[f"day{day_count}"].append([(word_mean[0], ""), word_mean[1].replace("\n", "")])
-
-    # print("DAY: ", all_day)
-    # print("토익 기초: ", basic)
-    # print("800점 단어: ", grade800)
 
     return all_day, basic, grade800
 
