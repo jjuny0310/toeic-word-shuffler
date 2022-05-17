@@ -7,5 +7,8 @@
 - Python
 - Tkinter
 
+## 조작 키
+- `Space Bar` : 단어 의미 보이기
+
 ## 미리보기
 ![단어 셔플러](https://user-images.githubusercontent.com/59381113/168864535-64158f1a-e147-405a-b77e-a69ad6164fa0.gif)
