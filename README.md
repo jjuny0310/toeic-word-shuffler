@@ -26,7 +26,7 @@
 > resume/이력서<br>
 > opening/공석, 결원; 개장, 개시<br><br>
 >
->-토익 기초 단어<br>
+> -토익 기초 단어<br>
 application form/신청서<br>
 career/직업, 경력<br><br>
 >
@@ -34,7 +34,7 @@ career/직업, 경력<br><br>
 achieve one's goal/목표를 달성하다<br>
 apprentice/견습생, 도제<br><br>
 >
->-900점 완성 단어<br>
+> -900점 완성 단어<br>
 credential/신임장, 자격 증명서<br>
 firsthand/직접적인<br><br>
 
