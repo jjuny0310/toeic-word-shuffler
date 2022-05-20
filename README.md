@@ -42,4 +42,4 @@ firsthand/직접적인<br><br>
 - `Space Bar` : 단어 의미 보이기
 
 ## 미리보기
-![단어 셔플러](https://user-images.githubusercontent.com/59381113/168864535-64158f1a-e147-405a-b77e-a69ad6164fa0.gif)
+![shuffle](https://user-images.githubusercontent.com/59381113/169553780-27c1bb0e-03e0-43f2-94a6-21d6ed272997.gif)
