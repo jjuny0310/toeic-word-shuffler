@@ -92,9 +92,11 @@ def insertWord(shuffle):
 def keyEvent(event):
     global cur_idx
 
-    treeview.set(cur_idx, column="two", value=treelist[cur_idx][1])
-    cur_idx += 1
-
+    try:
+        treeview.set(cur_idx, column="two", value=treelist[cur_idx][1])
+        cur_idx += 1
+    except:
+        print("모든 단어의 의미가 노출되었습니다.")
 
 # 체크박스 모두 선택
 def allCheckBoxOn():
