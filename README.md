@@ -10,5 +10,8 @@
 ## 조작 키
 - `Space Bar` : 단어 의미 보이기
 
+## 다운로드
+https://drive.google.com/file/d/18xKlQw0jbdXhscpGb_qpJXhYlVKl70q6/view?usp=sharing
+
 ## 미리보기
 ![단어 셔플러](https://user-images.githubusercontent.com/59381113/168864535-64158f1a-e147-405a-b77e-a69ad6164fa0.gif)
