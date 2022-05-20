@@ -22,7 +22,7 @@ r4 = IntVar()
 day_checkval = {}
 
 # 단어 불러오기
-all_day, basic, grade800 = load.load()
+all_day, basic, grade800, grade900 = load.load()
 
 
 def backSpace():
@@ -66,7 +66,10 @@ def insertWord():
 
     # 900점 완성 단어가 선택되면(미구현)
     if r4.get():
-        pass
+        for i in range(DAY_NUM):
+            if day_checkval[f"day{i + 1}"].get():
+                for init_word in grade900[f"day{i + 1}"]:
+                    treelist.append(init_word)
 
     # 단어 셔플
     random.shuffle(treelist)
