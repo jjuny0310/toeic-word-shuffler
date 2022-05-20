@@ -25,7 +25,7 @@
 > -day1<br>
 > resume/이력서<br>
 > opening/공석, 결원; 개장, 개시<br><br>
-
+>
 >-토익 기초 단어<br>
 application form/신청서<br>
 career/직업, 경력<br><br>
