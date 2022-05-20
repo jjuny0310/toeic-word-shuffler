@@ -22,7 +22,7 @@
 단어를 추가하기 위해서는 **load/vocabulary.txt** 를 수정해야 합니다.
 
 예시) 아래 내용을 템플릿으로 사용하여 단어를 추가해주세요.(load/vocabulary.txt 파일 수정)
-> -day1<
+> -day1<br>
 > resume/이력서
 > opening/공석, 결원; 개장, 개시
 
