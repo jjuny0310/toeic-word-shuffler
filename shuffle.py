@@ -25,9 +25,15 @@ day_checkval = {}
 all_day, basic, grade800, grade900 = load.load()
 
 
+# 뒤로 가기
 def backSpace():
     run.withdraw()
     menu.deiconify()
+
+# 모든 단어 의미 보이기
+def showAllMean():
+    for i in range(len(treeview.get_children())):
+        treeview.set(i, column="two", value=treelist[i][1])
 
 
 # 단어 셔플
@@ -172,9 +178,12 @@ def createRunWindow():
     runbtn_frame.grid_columnconfigure(1, weight=1)
 
     shuffle_btn = Button(runbtn_frame, text="단어 섞기", font=fontStyle, command=reShuffleWord)
+    show_all_mean = Button(runbtn_frame, text="의미 보이기(전체)", font=fontStyle, command=showAllMean)
     back_btn = Button(runbtn_frame, text="뒤로가기", font=fontStyle, command=backSpace)
+
     shuffle_btn.grid(row=3, column=0, sticky='ew')
-    back_btn.grid(row=3, column=1, sticky='ew')
+    show_all_mean.grid(row=3, column=1, sticky='ew')
+    back_btn.grid(row=3, column=2, sticky='ew')
 
     # 키 입력 이벤트
     run.bind("<space>", keyEvent)
