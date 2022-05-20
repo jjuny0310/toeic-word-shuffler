@@ -23,20 +23,20 @@
 
 예시) 아래 내용을 템플릿으로 사용하여 단어를 추가해주세요.(load/vocabulary.txt 파일 수정)
 > -day1<br>
-> resume/이력서
-> opening/공석, 결원; 개장, 개시
+> resume/이력서<br>
+> opening/공석, 결원; 개장, 개시<br><br>
 
->-토익 기초 단어
-application form/신청서
-career/직업, 경력
+>-토익 기초 단어<br>
+application form/신청서<br>
+career/직업, 경력<br><br>
 
-> -800점 완성 단어
-achieve one's goal/목표를 달성하다
-apprentice/견습생, 도제
+> -800점 완성 단어<br>
+achieve one's goal/목표를 달성하다<br>
+apprentice/견습생, 도제<br><br>
 
->-900점 완성 단어
-credential/신임장, 자격 증명서
-firsthand/직접적인
+>-900점 완성 단어<br>
+credential/신임장, 자격 증명서<br>
+firsthand/직접적인<br><br>
 
 ## 조작 키
 - `Space Bar` : 단어 의미 보이기
