@@ -2,8 +2,9 @@ DAY_NUM = 30
 
 # 단어장 불러오기
 def load():
-    f = open("load/vocabulary.txt", 'r', encoding='UTF8')
-    lines = f.readlines()
+    # 단어장 load
+    voca = open("load/vocabulary.txt", 'r', encoding='UTF8')
+    lines = voca.readlines()
 
     # 플래그 변수
     day_flag = False
@@ -27,7 +28,7 @@ def load():
 
     # 텍스트 분리
     for i, line in enumerate(lines):
-        if line.startswith("#day"):
+        if line.startswith("-day") or line.startswith("-Day") or line.startswith("-DAY"):
             day_count += 1
             day_flag = True
             basic_flag = False

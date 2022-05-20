@@ -30,15 +30,17 @@ def backSpace():
     menu.deiconify()
 
 
-# 단어 재 셔플
+# 단어 셔플
 def reShuffleWord():
     for i in treeview.get_children():
         treeview.delete(i)
-    insertWord()
+
+    # 단어 셔플
+    insertWord(shuffle=True)
 
 
 # 단어 삽입
-def insertWord():
+def insertWord(shuffle):
     global cur_idx, treelist, word_num
     treelist = []
     cur_idx = 0
@@ -72,11 +74,12 @@ def insertWord():
                     treelist.append(init_word)
 
     # 단어 셔플
-    random.shuffle(treelist)
-    
+    if shuffle:
+        random.shuffle(treelist)
+
     # 단어 삽입
     for i in range(len(treelist)):
-        treeview.insert('', 'end', text=i, values=treelist[i][0], iid=i)
+        treeview.insert('', 'end', text=i+1, values=treelist[i][0], iid=i)
 
 
 # 키 입력 이벤트
@@ -158,7 +161,7 @@ def createRunWindow():
     treeview.column("#2", width=400, anchor="center")
     treeview.heading("two", text="의미", anchor="center")
 
-    insertWord()
+    insertWord(shuffle=False)
 
 
     # RUN 관련 버튼
